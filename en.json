@@ -79,6 +79,15 @@
     "inviteEmailStep3": "Select 'Join an existing family', and when prompted, enter this Family ID: <strong>{{familyId}}</strong>",
     "inviteEmailFooter": "This invitation is specific to your email address and cannot be used by others, or a different email address."
   },
+  "chat": {
+    "noMessages": "No messages yet",
+    "startConversation": "Start a conversation",
+    "typeMessage": "Type a message...",
+    "failedToLoadMessages": "Failed to load messages",
+    "failedToSendMessage": "Failed to send message",
+    "cannotSendMessage": "Cannot send message. Please try again.",
+    "messageTooLong": "Message is too long. Maximum {{max}} characters."
+  },
   "requests": {
     "loadingRequests": "Loading requests...",
     "approved": "Approved",
@@ -119,6 +128,7 @@
     "calendar": "Calendar",
     "journal": "Journal",
     "requests": "Requests",
+    "chat": "Chat",
     "profile": "Profile"
   },
   "calendar": {

@@ -79,6 +79,15 @@
     "inviteEmailStep3": "「既存のファミリーに参加」を選択し、求められたら、このファミリーIDを入力してください：<strong>{{familyId}}</strong>",
     "inviteEmailFooter": "この招待はあなたのメールアドレス専用です。他の人や別のアドレスでは使用できません。"
   },
+  "chat": {
+    "noMessages": "まだメッセージがありません",
+    "startConversation": "チャットを開始",
+    "typeMessage": "メッセージを入力してください...",
+    "failedToLoadMessages": "メッセージの読み込みに失敗しました",
+    "failedToSendMessage": "メッセージの送信に失敗しました",
+    "cannotSendMessage": "メッセージを送信できません。再度お試しください。",
+    "messageTooLong": "メッセージは長すぎます。最大{{max}}文字までです。"
+  },
   "requests": {
     "loadingRequests": "リクエストを読み込み中...",
     "approved": "承認済み",
@@ -119,6 +128,7 @@
     "calendar": "カレンダー",
     "journal": "日誌",
     "requests": "リクエスト",
+    "chat": "チャット",
     "profile": "プロフィール"
   },
   "calendar": {

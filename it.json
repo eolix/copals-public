@@ -79,6 +79,15 @@
     "inviteEmailStep3": "Seleziona 'Accedi a famiglia esistente', e quando richiesto, inserisci questo ID famiglia: <strong>{{familyId}}</strong>",
     "inviteEmailFooter": "Questo invito è specifico per il tuo indirizzo email e non può essere usato da altri o da un indirizzo diverso."
   },
+  "chat": {
+    "noMessages": "Nessun messaggio ancora",
+    "startConversation": "Inizia una conversazione",
+    "typeMessage": "Scrivi un messaggio...",
+    "failedToLoadMessages": "Caricamento messaggi fallito",
+    "failedToSendMessage": "Invio messaggio fallito",
+    "cannotSendMessage": "Il messaggio non può essere inviato. Per favore, riprova.",
+    "messageTooLong": "Il messaggio è troppo lungo. Massimo {{max}} caratteri."
+  },
   "requests": {
     "loadingRequests": "Caricamento richieste...",
     "approved": "Approvata",
@@ -119,6 +128,7 @@
     "calendar": "Calendario",
     "journal": "Diario",
     "requests": "Richieste",
+    "chat": "Chat",
     "profile": "Profilo"
   },
   "calendar": {

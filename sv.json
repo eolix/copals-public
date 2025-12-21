@@ -79,6 +79,15 @@
     "inviteEmailStep3": "Välj 'Gå med i befintlig familj', och när du blir ombedd, ange detta familje-ID: <strong>{{familyId}}</strong>",
     "inviteEmailFooter": "Denna inbjudan är specifik för din e-postadress och kan inte användas av andra eller en annan adress."
   },
+  "chat": {
+    "noMessages": "Inga meddelanden ännu",
+    "startConversation": "Starta en konversation",
+    "typeMessage": "Skriv ett meddelande...",
+    "failedToLoadMessages": "Misslyckades att ladda meddelanden",
+    "failedToSendMessage": "Misslyckades att skicka meddelande",
+    "cannotSendMessage": "Kan inte skicka meddelande. Försök igen.",
+    "messageTooLong": "Meddelandet är för långt. Maximal {{max}} tecken."
+  },
   "requests": {
     "loadingRequests": "Laddar förfrågningar...",
     "approved": "Godkänd",
@@ -119,6 +128,7 @@
     "calendar": "Kalender",
     "journal": "Dagbok",
     "requests": "Förfrågningar",
+    "chat": "Chatt",
     "profile": "Profil"
   },
   "calendar": {

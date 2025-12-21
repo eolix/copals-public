@@ -79,6 +79,15 @@
     "inviteEmailStep3": "Wählen Sie 'Bestehender Familie beitreten', und wenn Sie dazu aufgefordert werden, geben Sie diese Familien-ID ein: <strong>{{familyId}}</strong>",
     "inviteEmailFooter": "Diese Einladung ist spezifisch für Ihre E-Mail-Adresse und kann nicht von anderen oder einer anderen Adresse verwendet werden."
   },
+  "chat": {
+    "noMessages": "Noch keine Nachrichten",
+    "startConversation": "Beginnen Sie ein Gespräch",
+    "typeMessage": "Nachricht eingeben...",
+    "failedToLoadMessages": "Nachrichten konnten nicht geladen werden",
+    "failedToSendMessage": "Nachricht konnte nicht gesendet werden",
+    "cannotSendMessage": "Nachricht kann nicht gesendet werden. Bitte versuchen Sie es erneut.",
+    "messageTooLong": "Nachricht ist zu lang. Maximal {{max}} Zeichen."
+  },
   "requests": {
     "loadingRequests": "Anfragen werden geladen...",
     "approved": "Genehmigt",
@@ -119,6 +128,7 @@
     "calendar": "Kalender",
     "journal": "Tagebuch",
     "requests": "Anfragen",
+    "chat": "Charla",
     "profile": "Profil"
   },
   "calendar": {

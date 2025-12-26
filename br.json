@@ -265,11 +265,5 @@
     "googleSignInError": "Erro no Google Sign-In",
     "errorOccurred": "Ocorreu um erro: {{message}}",
     "failedToCheckVerification": "Falha ao verificar status do e-mail"
-  },
-  "appstore": {
-    "appname": "CoPals",
-    "shortDescription": "O app tudo-em-um para pais separados",
-    "fullDescription": "Calendario para pais separados. Simplifique a gestão de cuidado com o seu filho. Sem assinaturas nem compras no aplicativo.",
-    "keywords": "dois lares, coparenting, co-parenting, pais separados, cuidado com o filho, agenda, custódia, app"
   }
 }

@@ -265,11 +265,5 @@
     "googleSignInError": "Googleサインインエラー",
     "errorOccurred": "エラーが発生しました：{{message}}",
     "failedToCheckVerification": "メール認証状況の確認に失敗しました"
-  },
-  "appstore": {
-    "appname": "CoPals",
-    "shortDescription": "分離した親のためのすべてを含むアプリ",
-    "fullDescription": "子どものカレンダー、日誌、スケジューラーを含む。分離した親のためのコパレンディングを簡素化します。 サブスクリプションやアプリ内課金はありません。",
-    "keywords": "分離した親, コパレンディング, コパレンディング, 子ども, カレンダー, 日誌, スケジューラー"
   }
 }

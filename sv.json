@@ -49,6 +49,7 @@
     "notifications": "Aviseringar",
     "newJournalEntries": "Nya dagboksinlägg",
     "newScheduleRequests": "Nya schemaförfrågningar",
+    "newMessages": "Nya meddelanden",
     "schoolTimes": "Skoltider",
     "selected": "Valt: {{start}} - {{end}}",
     "displaySchoolTimesInCalendar": "Visa skoltider i kalendern",

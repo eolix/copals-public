@@ -49,6 +49,7 @@
     "notifications": "Notifications",
     "newJournalEntries": "New journal entries",
     "newScheduleRequests": "New schedule requests",
+    "newMessages": "New messages",
     "schoolTimes": "School Times",
     "selected": "Selected: {{start}} - {{end}}",
     "displaySchoolTimesInCalendar": "Display school times in the Calendar",

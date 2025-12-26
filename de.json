@@ -49,6 +49,7 @@
     "notifications": "Benachrichtigungen",
     "newJournalEntries": "Neue Tagebucheinträge",
     "newScheduleRequests": "Neue Planungsanfragen",
+    "newMessages": "Neue Nachrichten",
     "schoolTimes": "Schulzeiten",
     "selected": "Ausgewählt: {{start}} - {{end}}",
     "displaySchoolTimesInCalendar": "Schulzeiten im Kalender anzeigen",

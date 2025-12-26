@@ -49,6 +49,7 @@
     "notifications": "通知",
     "newJournalEntries": "新しい日誌の記録",
     "newScheduleRequests": "新しいスケジュールリクエスト",
+    "newMessages": "新しいメッセージ",
     "schoolTimes": "学校時間",
     "selected": "選択：{{start}} - {{end}}",
     "displaySchoolTimesInCalendar": "カレンダーに学校時間を表示",

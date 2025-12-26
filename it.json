@@ -49,6 +49,7 @@
     "notifications": "Notifiche",
     "newJournalEntries": "Nuove voci nel diario",
     "newScheduleRequests": "Nuove richieste di programmi",
+    "newMessages": "Nuovi messaggi",
     "schoolTimes": "Orari scolastici",
     "selected": "Selezionato: {{start}} - {{end}}",
     "displaySchoolTimesInCalendar": "Mostra orari scolastici nel calendario",

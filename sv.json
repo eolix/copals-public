@@ -265,11 +265,5 @@
     "googleSignInError": "Google-inloggningsfel",
     "errorOccurred": "Ett fel uppstod: {{message}}",
     "failedToCheckVerification": "Misslyckades att kontrollera e-postverifiering"
-  },
-  "appstore": {
-    "appname": "CoPals",
-    "shortDescription": "Den fullständiga appen för separata föräldrar",
-    "fullDescription": "Kalender för separata föräldrar. Förenkla vården av ditt barn. Inga prenumerationer eller in-app-köp.",
-    "keywords": "två hem, co-parenting, co-parenting, separata föräldrar, vård av barn, schema, vårdnad"
   }
 }

@@ -265,11 +265,5 @@
     "googleSignInError": "Google-Anmeldefehler",
     "errorOccurred": "Ein Fehler ist aufgetreten: {{message}}",
     "failedToCheckVerification": "Fehler beim Überprüfen des E-Mail-Status"
-  },
-  "appstore": {
-    "appname": "CoPals",
-    "shortDescription": "Das alles-in-einem-App für getrennte Eltern",
-    "fullDescription": "Alles-in-einem-App für Kinderkalender, Tagebuch und Planung. Vereinfache das gemeinsame Elternsein mit getrennten Eltern. Keine Abonnements oder In-App-Käufe.",
-    "keywords": "getrennte Eltern, gemeinsame Eltern, Eltern-App, Planung, Eltern-Kalender, App"
   }
 }

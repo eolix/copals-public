@@ -265,11 +265,5 @@
     "googleSignInError": "Google Sign-In Error",
     "errorOccurred": "An error occurred: {{message}}",
     "failedToCheckVerification": "Failed to check email verification status"
-  },
-  "appstore": {
-    "appname": "CoPals",
-    "shortDescription": "The all-in-one, amicable co-parenting app",
-    "fullDescription": "Child calendar, journal, and scheduler. Simplify coparenting with separated parents. No subscriptions nor in-app purchases.",
-    "keywords": "two homes, coparenting, co-parenting, separated parents, child caring, scheduling, custody, appclose"
   }
 }

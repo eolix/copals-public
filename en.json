@@ -43,6 +43,7 @@
     "accountDeletionFailed": "Failed to delete account",
     "reauthenticationSuccess": "Authentication successful. You can now delete your account.",
     "inviteOtherParent": "Invite Other Parent",
+    "resendInvite": "Re-send Invite",
     "familyId": "Family ID: {{familyId}}",
     "displayName": "Display Name",
     "enterDisplayName": "Enter your display name",

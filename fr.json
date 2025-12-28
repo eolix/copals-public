@@ -43,6 +43,7 @@
     "accountDeletionFailed": "Échec de la suppression du compte",
     "reauthenticationSuccess": "Authentification réussie. Vous pouvez maintenant supprimer votre compte.",
     "inviteOtherParent": "Inviter l'autre parent",
+    "resendInvite": "Renvoyer l'invitation",
     "familyId": "ID de famille : {{familyId}}",
     "displayName": "Nom affiché",
     "enterDisplayName": "Entrez votre nom affiché",

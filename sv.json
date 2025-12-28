@@ -43,6 +43,7 @@
     "accountDeletionFailed": "Misslyckades att radera konto",
     "reauthenticationSuccess": "Autentisering lyckades. Du kan nu radera ditt konto.",
     "inviteOtherParent": "Bjud in annan förälder",
+    "resendInvite": "Skicka inbjudan igen",
     "familyId": "Familje-ID: {{familyId}}",
     "displayName": "Visningsnamn",
     "enterDisplayName": "Ange ditt visningsnamn",

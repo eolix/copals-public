@@ -43,6 +43,7 @@
     "accountDeletionFailed": "Eliminazione profilo fallita",
     "reauthenticationSuccess": "Autenticazione riuscita. Ora puoi eliminare il tuo profilo.",
     "inviteOtherParent": "Invita altro genitore",
+    "resendInvite": "Reinvia invito",
     "familyId": "ID famiglia: {{familyId}}",
     "displayName": "Nome visualizzato",
     "enterDisplayName": "Inserisci il tuo nome visualizzato",

@@ -43,6 +43,7 @@
     "accountDeletionFailed": "Kontolöschung fehlgeschlagen",
     "reauthenticationSuccess": "Authentifizierung erfolgreich. Sie können Ihr Konto jetzt löschen.",
     "inviteOtherParent": "Anderen Elternteil einladen",
+    "resendInvite": "Einladung erneut senden",
     "familyId": "Familien-ID: {{familyId}}",
     "displayName": "Anzeigename",
     "enterDisplayName": "Geben Sie Ihren Anzeigenamen ein",

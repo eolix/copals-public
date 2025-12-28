@@ -79,7 +79,16 @@
     "inviteEmailStep2": "Crie uma conta usando este e-mail: <strong>{{email}}</strong>",
     "inviteEmailAppleWarning": "Nota: se usar o login Apple, NÃO selecione \"Ocultar meu e-mail\"",
     "inviteEmailStep3": "Selecione 'Entrar em família existente', e quando solicitado, insira este ID da família: <strong>{{familyId}}</strong>",
-    "inviteEmailFooter": "Este convite é específico para seu e-mail e não pode ser usado por outros ou por outro endereço."
+    "inviteEmailFooter": "Este convite é específico para seu e-mail e não pode ser usado por outros ou por outro endereço.",
+    "feedback": "Feedback",
+    "provideFeedback": "Fornecer feedback",
+    "feedbackModalBody": "Adoraríamos ouvir sua opinião! Escolha um tipo de feedback:",
+    "askQuestion": "Fazer uma pergunta",
+    "reportBug": "Reportar um bug",
+    "requestFeature": "Solicitar uma funcionalidade",
+    "emailSentSuccess": "E-mail enviado com sucesso! Verifique sua pasta de spam se não receber uma resposta em 7 dias úteis.",
+    "issueSentSuccess": "{{type}} enviado! Verifique o status em: ",
+    "feedbackSubmitFailed": "Falha ao enviar feedback. Por favor, tente novamente."
   },
   "messages": {
     "noMessages": "Nenhuma mensagem",

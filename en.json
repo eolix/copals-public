@@ -79,7 +79,16 @@
     "inviteEmailStep2": "Create an account using this email address: <strong>{{email}}</strong>",
     "inviteEmailAppleWarning": "Note: if you use Apple Login, do NOT select the option \"Hide my email\"",
     "inviteEmailStep3": "Select 'Join an existing family', and when prompted, enter this Family ID: <strong>{{familyId}}</strong>",
-    "inviteEmailFooter": "This invitation is specific to your email address and cannot be used by others, or a different email address."
+    "inviteEmailFooter": "This invitation is specific to your email address and cannot be used by others, or a different email address.",
+    "feedback": "Feedback",
+    "provideFeedback": "Provide Feedback",
+    "feedbackModalBody": "We'd love to hear from you! Choose a feedback type:",
+    "askQuestion": "Ask a question",
+    "reportBug": "Report a bug",
+    "requestFeature": "Request a feature",
+    "emailSentSuccess": "Email sent successfully! Check your spam folder if you don't see a reply within 7 working days.",
+    "issueSentSuccess": "{{type}} submitted! Check the status at: ",
+    "feedbackSubmitFailed": "Failed to submit feedback. Please try again."
   },
   "messages": {
     "noMessages": "No messages yet",

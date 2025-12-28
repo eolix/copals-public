@@ -79,7 +79,16 @@
     "inviteEmailStep2": "Erstellen Sie ein Konto mit dieser E-Mail-Adresse: <strong>{{email}}</strong>",
     "inviteEmailAppleWarning": "Hinweis: Wenn Sie Apple Login verwenden, wählen Sie NICHT die Option \"Meine E-Mail verbergen\"",
     "inviteEmailStep3": "Wählen Sie 'Bestehender Familie beitreten', und wenn Sie dazu aufgefordert werden, geben Sie diese Familien-ID ein: <strong>{{familyId}}</strong>",
-    "inviteEmailFooter": "Diese Einladung ist spezifisch für Ihre E-Mail-Adresse und kann nicht von anderen oder einer anderen Adresse verwendet werden."
+    "inviteEmailFooter": "Diese Einladung ist spezifisch für Ihre E-Mail-Adresse und kann nicht von anderen oder einer anderen Adresse verwendet werden.",
+    "feedback": "Feedback",
+    "provideFeedback": "Feedback geben",
+    "feedbackModalBody": "Wir würden gerne von Ihnen hören! Wählen Sie eine Feedback-Art:",
+    "askQuestion": "Eine Frage stellen",
+    "reportBug": "Einen Fehler melden",
+    "requestFeature": "Eine Funktion anfragen",
+    "emailSentSuccess": "E-Mail erfolgreich gesendet! Überprüfen Sie Ihren Spam-Ordner, wenn Sie innerhalb von 7 Werktagen keine Antwort sehen.",
+    "issueSentSuccess": "{{type}} eingereicht! Überprüfen Sie den Status unter: ",
+    "feedbackSubmitFailed": "Feedback konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
   },
   "messages": {
     "noMessages": "Noch keine Nachrichten",

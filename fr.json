@@ -79,7 +79,16 @@
     "inviteEmailStep2": "Créez un compte avec cette adresse e-mail : <strong>{{email}}</strong>",
     "inviteEmailAppleWarning": "Remarque : si vous utilisez la connexion Apple, ne sélectionnez PAS l'option \"Masquer mon e-mail\"",
     "inviteEmailStep3": "Sélectionnez 'Rejoindre une famille existante', et lorsque vous y êtes invité, entrez cet ID de famille : <strong>{{familyId}}</strong>",
-    "inviteEmailFooter": "Cette invitation est spécifique à votre adresse e-mail et ne peut pas être utilisée par d'autres personnes ou une adresse différente."
+    "inviteEmailFooter": "Cette invitation est spécifique à votre adresse e-mail et ne peut pas être utilisée par d'autres personnes ou une adresse différente.",
+    "feedback": "Commentaires",
+    "provideFeedback": "Donner un avis",
+    "feedbackModalBody": "Nous aimerions avoir votre avis ! Choisissez un type de commentaire :",
+    "askQuestion": "Poser une question",
+    "reportBug": "Signaler un bug",
+    "requestFeature": "Demander une fonctionnalité",
+    "emailSentSuccess": "E-mail envoyé avec succès ! Vérifiez votre dossier spam si vous ne voyez pas de réponse dans les 7 jours ouvrables.",
+    "issueSentSuccess": "{{type}} soumis ! Vérifiez le statut sur : ",
+    "feedbackSubmitFailed": "Échec de l'envoi du commentaire. Veuillez réessayer."
   },
   "messages": {
     "noMessages": "Aucun message encore",

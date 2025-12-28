@@ -79,7 +79,16 @@
     "inviteEmailStep2": "Skapa ett konto med denna e-postadress: <strong>{{email}}</strong>",
     "inviteEmailAppleWarning": "Obs: Om du använder Apple-inloggning, välj INTE \"Dölj min e-post\"",
     "inviteEmailStep3": "Välj 'Gå med i befintlig familj', och när du blir ombedd, ange detta familje-ID: <strong>{{familyId}}</strong>",
-    "inviteEmailFooter": "Denna inbjudan är specifik för din e-postadress och kan inte användas av andra eller en annan adress."
+    "inviteEmailFooter": "Denna inbjudan är specifik för din e-postadress och kan inte användas av andra eller en annan adress.",
+    "feedback": "Feedback",
+    "provideFeedback": "Ge feedback",
+    "feedbackModalBody": "Vi skulle gärna höra från dig! Välj en feedbacktyp:",
+    "askQuestion": "Ställ en fråga",
+    "reportBug": "Rapportera ett fel",
+    "requestFeature": "Begär en funktion",
+    "emailSentSuccess": "E-post skickad! Kontrollera din skräppostmapp om du inte ser ett svar inom 7 arbetsdagar.",
+    "issueSentSuccess": "{{type}} inskickat! Kontrollera statusen på: ",
+    "feedbackSubmitFailed": "Misslyckades att skicka feedback. Försök igen."
   },
   "messages": {
     "noMessages": "Inga meddelanden ännu",

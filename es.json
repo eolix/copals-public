@@ -79,7 +79,16 @@
     "inviteEmailStep2": "Crea una cuenta usando esta dirección de correo electrónico: <strong>{{email}}</strong>",
     "inviteEmailAppleWarning": "Nota: si usas Apple Login, NO selecciones la opción \"Ocultar mi correo electrónico\"",
     "inviteEmailStep3": "Selecciona 'Unirse a una familia existente', y cuando solicite, introduce este ID familiar: <strong>{{familyId}}</strong>",
-    "inviteEmailFooter": "Esta invitación es específica para tu dirección de correo electrónico y no puede ser utilizada por otros ni por una dirección de correo diferente."
+    "inviteEmailFooter": "Esta invitación es específica para tu dirección de correo electrónico y no puede ser utilizada por otros ni por una dirección de correo diferente.",
+    "feedback": "Comentarios",
+    "provideFeedback": "Proporcionar comentarios",
+    "feedbackModalBody": "¡Nos encantaría saber tu opinión! Elige un tipo de comentario:",
+    "askQuestion": "Hacer una pregunta",
+    "reportBug": "Reportar un error",
+    "requestFeature": "Solicitar una función",
+    "emailSentSuccess": "¡Correo enviado con éxito! Revisa tu carpeta de spam si no ves una respuesta en 7 días hábiles.",
+    "issueSentSuccess": "{{type}} enviado! Verifica el estado en: ",
+    "feedbackSubmitFailed": "Error al enviar comentarios. Por favor, inténtalo de nuevo."
   },
   "messages": {
     "noMessages": "No hay mensajes todavía",

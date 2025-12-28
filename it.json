@@ -79,7 +79,16 @@
     "inviteEmailStep2": "Crea un account usando questa email: <strong>{{email}}</strong>",
     "inviteEmailAppleWarning": "Nota: se usi Apple Login, NON selezionare \"Nascondi la mia email\"",
     "inviteEmailStep3": "Seleziona 'Accedi a famiglia esistente', e quando richiesto, inserisci questo ID famiglia: <strong>{{familyId}}</strong>",
-    "inviteEmailFooter": "Questo invito è specifico per il tuo indirizzo email e non può essere usato da altri o da un indirizzo diverso."
+    "inviteEmailFooter": "Questo invito è specifico per il tuo indirizzo email e non può essere usato da altri o da un indirizzo diverso.",
+    "feedback": "Feedback",
+    "provideFeedback": "Fornisci feedback",
+    "feedbackModalBody": "Ci piacerebbe sentire la tua opinione! Scegli un tipo di feedback:",
+    "askQuestion": "Fai una domanda",
+    "reportBug": "Segnala un bug",
+    "requestFeature": "Richiedi una funzionalità",
+    "emailSentSuccess": "Email inviata con successo! Controlla la tua cartella spam se non vedi una risposta entro 7 giorni lavorativi.",
+    "issueSentSuccess": "{{type}} inviato! Controlla lo stato su: ",
+    "feedbackSubmitFailed": "Invio del feedback fallito. Per favore, riprova."
   },
   "messages": {
     "noMessages": "Nessun messaggio ancora",

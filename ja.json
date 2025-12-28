@@ -79,7 +79,16 @@
     "inviteEmailStep2": "このメールアドレスでアカウントを作成してください：<strong>{{email}}</strong>",
     "inviteEmailAppleWarning": "Appleログインを使用する場合、「メールを非表示」を選択しないでください",
     "inviteEmailStep3": "「既存のファミリーに参加」を選択し、求められたら、このファミリーIDを入力してください：<strong>{{familyId}}</strong>",
-    "inviteEmailFooter": "この招待はあなたのメールアドレス専用です。他の人や別のアドレスでは使用できません。"
+    "inviteEmailFooter": "この招待はあなたのメールアドレス専用です。他の人や別のアドレスでは使用できません。",
+    "feedback": "フィードバック",
+    "provideFeedback": "フィードバックを送る",
+    "feedbackModalBody": "ご意見をお聞かせください！フィードバックの種類を選択してください：",
+    "askQuestion": "質問する",
+    "reportBug": "バグを報告",
+    "requestFeature": "機能をリクエスト",
+    "emailSentSuccess": "メールが正常に送信されました！7営業日以内に返信が届かない場合は、迷惑メールフォルダを確認してください。",
+    "issueSentSuccess": "{{type}}が送信されました！ステータスを確認：",
+    "feedbackSubmitFailed": "フィードバックの送信に失敗しました。もう一度お試しください。"
   },
   "messages": {
     "noMessages": "まだメッセージがありません",

@@ -43,6 +43,7 @@
     "accountDeletionFailed": "Error al eliminar la cuenta",
     "reauthenticationSuccess": "Autenticación exitosa. Ahora puedes eliminar tu cuenta.",
     "inviteOtherParent": "Invitar al otro padre/madre",
+    "resendInvite": "Reenviar invitación",
     "familyId": "ID familiar: {{familyId}}",
     "displayName": "Nombre para mostrar",
     "enterDisplayName": "Introduce tu nombre para mostrar",

@@ -43,6 +43,7 @@
     "accountDeletionFailed": "アカウントの削除に失敗しました",
     "reauthenticationSuccess": "認証に成功しました。アカウントを削除できます。",
     "inviteOtherParent": "他の保護者を招待",
+    "resendInvite": "招待を再送信",
     "familyId": "ファミリーID：{{familyId}}",
     "displayName": "表示名",
     "enterDisplayName": "表示名を入力してください",

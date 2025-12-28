@@ -43,6 +43,7 @@
     "accountDeletionFailed": "Falha ao excluir conta",
     "reauthenticationSuccess": "Autenticação bem-sucedida. Agora você pode excluir sua conta.",
     "inviteOtherParent": "Convidar outro responsável",
+    "resendInvite": "Reenviar convite",
     "familyId": "ID da família: {{familyId}}",
     "displayName": "Nome de exibição",
     "enterDisplayName": "Digite seu nome de exibição",

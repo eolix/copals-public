@@ -52,6 +52,8 @@
     "newScheduleRequests": "Nya schemaförfrågningar",
     "newMessages": "Nya meddelanden",
     "schoolTimes": "Skoltider",
+    "defaultTimes": "Standardtider",
+    "school": "Skola",
     "selected": "Valt: {{start}} - {{end}}",
     "displaySchoolTimesInCalendar": "Visa skoltider i kalendern",
     "language": "Språk",

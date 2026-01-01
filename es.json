@@ -176,7 +176,6 @@
     "deleteRegularSchedule": "Eliminar Programa Periódico",
     "deleteSwapSchedule": "Eliminar Intercambio de Días",
     "deleteHolidaySchedule": "Eliminar Programa de Vacaciones",
-    "with": "Con",
     "isRequestingDays": "solicita tener días:",
     "inExchange": "A cambio,",
     "loadingScheduleData": "Cargando datos del programa...",

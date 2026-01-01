@@ -176,7 +176,6 @@
     "deleteRegularSchedule": "Supprimer le planning régulier",
     "deleteSwapSchedule": "Supprimer l'échange de jours",
     "deleteHolidaySchedule": "Supprimer le planning de vacances",
-    "with": "Avec",
     "isRequestingDays": "demande d'avoir des jours :",
     "inExchange": "En échange,",
     "loadingScheduleData": "Chargement des données du planning...",

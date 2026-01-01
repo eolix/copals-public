@@ -177,7 +177,6 @@
     "deleteRegularSchedule": "Radera regelbundet schema",
     "deleteSwapSchedule": "Radera byt dagar-schema",
     "deleteHolidaySchedule": "Radera semesterschema",
-    "with": "Med",
     "isRequestingDays": "begär att ha dagar:",
     "inExchange": "I utbyte,",
     "loadingScheduleData": "Laddar schemadata...",

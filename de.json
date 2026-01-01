@@ -164,6 +164,7 @@
     "noHandoversRequired": "Keine Übergaben für diesen Plan erforderlich.",
     "handoverTime": "Übergabezeit:",
     "handoverAt": "Übergabe um:",
+    "handover": "Übergabe:",
     "week": "Woche",
     "oneWeekRepeating": "Wiederholung jede Woche",
     "twoWeeksRepeating": "Wiederholung alle zwei Wochen",
@@ -185,7 +186,10 @@
     "failedToSubmit": "Fehler beim Senden",
     "failedToRequestDeletion": "Fehler beim Anfordern der Planlöschung.",
     "scheduleMissing": "Planungsdaten fehlen.",
-    "failedToLoadForDeletion": "Fehler beim Laden der Pläne zum Löschen."
+    "failedToLoadForDeletion": "Fehler beim Laden der Pläne zum Löschen.",
+    "today": "Heute",
+    "onHolidayWith": "Im Urlaub mit",
+    "with": "Bei"
   },
   "journal": {
     "meal": "Mahlzeit",

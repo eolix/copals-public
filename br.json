@@ -164,6 +164,7 @@
     "noHandoversRequired": "Nenhuma troca necessária para esta agenda.",
     "handoverTime": "horário de troca:",
     "handoverAt": "Troca às:",
+    "handover": "Troca:",
     "week": "Semana",
     "oneWeekRepeating": "Repetição semanal",
     "twoWeeksRepeating": "Repetição a cada duas semanas",
@@ -185,7 +186,10 @@
     "failedToSubmit": "Falha ao enviar",
     "failedToRequestDeletion": "Falha ao solicitar exclusão da agenda.",
     "scheduleMissing": "Dados da agenda ausentes.",
-    "failedToLoadForDeletion": "Falha ao carregar agendas para exclusão."
+    "failedToLoadForDeletion": "Falha ao carregar agendas para exclusão.",
+    "today": "Hoje",
+    "onHolidayWith": "De férias com",
+    "with": "Com"
   },
   "journal": {
     "meal": "Refeição",

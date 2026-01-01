@@ -176,7 +176,6 @@
     "deleteRegularSchedule": "定期スケジュールを削除",
     "deleteSwapSchedule": "日付交換スケジュールを削除",
     "deleteHolidaySchedule": "休暇スケジュールを削除",
-    "with": "と一緒に",
     "isRequestingDays": "日を希望しています：",
     "inExchange": "交換として、",
     "loadingScheduleData": "スケジュールデータを読み込み中...",

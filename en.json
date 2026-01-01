@@ -176,7 +176,6 @@
     "deleteRegularSchedule": "Delete Regular Schedule",
     "deleteSwapSchedule": "Delete Swap Schedule",
     "deleteHolidaySchedule": "Delete Holiday Schedule",
-    "with": "With",
     "isRequestingDays": "is requesting to have days:",
     "inExchange": "In exchange,",
     "loadingScheduleData": "Loading schedule data...",

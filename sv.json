@@ -165,6 +165,7 @@
     "noHandoversRequired": "Ingen överlämning krävs för detta schema.",
     "handoverTime": "överlämningstid:",
     "handoverAt": "Överlämning kl:",
+    "handover": "Överlämning:",
     "week": "Vecka",
     "oneWeekRepeating": "Upprepning varje vecka",
     "twoWeeksRepeating": "Upprepning varannan vecka",
@@ -186,7 +187,10 @@
     "failedToSubmit": "Misslyckades att skicka",
     "failedToRequestDeletion": "Misslyckades att begära radering av schema.",
     "scheduleMissing": "Schemainformation saknas.",
-    "failedToLoadForDeletion": "Misslyckades att ladda scheman för radering."
+    "failedToLoadForDeletion": "Misslyckades att ladda scheman för radering.",
+    "today": "Idag",
+    "onHolidayWith": "På semester med",
+    "with": "Hos"
   },
   "journal": {
     "meal": "Måltid",

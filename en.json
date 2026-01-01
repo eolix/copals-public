@@ -164,6 +164,7 @@
     "noHandoversRequired": "No handovers required for this schedule.",
     "handoverTime": "handover time:",
     "handoverAt": "Handover at:",
+    "handover": "Handover:",
     "week": "Week",
     "oneWeekRepeating": "One week repeating",
     "twoWeeksRepeating": "Two weeks repeating",
@@ -185,7 +186,10 @@
     "failedToSubmit": "Failed to submit",
     "failedToRequestDeletion": "Failed to request schedule deletion.",
     "scheduleMissing": "Schedule data is missing.",
-    "failedToLoadForDeletion": "Failed to load schedules for deletion."
+    "failedToLoadForDeletion": "Failed to load schedules for deletion.",
+    "today": "Today",
+    "onHolidayWith": "On holidays with",
+    "with": "With"
   },
   "journal": {
     "meal": "Meal",

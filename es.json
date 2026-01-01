@@ -164,6 +164,7 @@
     "noHandoversRequired": "No se requieren entregas para este programa.",
     "handoverTime": "hora de cambio:",
     "handoverAt": "Cambio a las:",
+    "handover": "Cambio:",
     "week": "Semana",
     "oneWeekRepeating": "Repetir cada semana",
     "twoWeeksRepeating": "Repetir cada dos semanas",
@@ -185,7 +186,10 @@
     "failedToSubmit": "Error al enviar",
     "failedToRequestDeletion": "Error al solicitar eliminación del programa.",
     "scheduleMissing": "Faltan datos del programa.",
-    "failedToLoadForDeletion": "Error al cargar programas para eliminación."
+    "failedToLoadForDeletion": "Error al cargar programas para eliminación.",
+    "today": "Hoy",
+    "onHolidayWith": "De vacaciones con",
+    "with": "Con"
   },
   "journal": {
     "meal": "Comida",

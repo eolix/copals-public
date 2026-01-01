@@ -164,6 +164,7 @@
     "noHandoversRequired": "Aucun transfert requis pour ce planning.",
     "handoverTime": "heure de transfert :",
     "handoverAt": "Transfert à:",
+    "handover": "Transfert:",
     "week": "Semaine",
     "oneWeekRepeating": "Répétition une semaine",
     "twoWeeksRepeating": "Répétition deux semaines",
@@ -185,7 +186,10 @@
     "failedToSubmit": "Échec de la soumission",
     "failedToRequestDeletion": "Échec de la demande de suppression du planning.",
     "scheduleMissing": "Données du planning manquantes.",
-    "failedToLoadForDeletion": "Échec du chargement des plannings pour suppression."
+    "failedToLoadForDeletion": "Échec du chargement des plannings pour suppression.",
+    "today": "Aujourd'hui",
+    "onHolidayWith": "En vacances avec",
+    "with": "Avec"
   },
   "journal": {
     "meal": "Repas",

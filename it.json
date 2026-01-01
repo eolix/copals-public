@@ -164,6 +164,7 @@
     "noHandoversRequired": "Nessuna scambio richiesta per questo programma.",
     "handoverTime": "orario scambio:",
     "handoverAt": "Scambio alle:",
+    "handover": "Scambio:",
     "week": "Settimana",
     "oneWeekRepeating": "Ripeti ogni settimana",
     "twoWeeksRepeating": "Ripeti ogni due settimane",
@@ -185,7 +186,10 @@
     "failedToSubmit": "Invio fallito",
     "failedToRequestDeletion": "Richiesta eliminazione programma fallita.",
     "scheduleMissing": "Dati programma mancanti.",
-    "failedToLoadForDeletion": "Caricamento programmi per eliminazione fallito."
+    "failedToLoadForDeletion": "Caricamento programmi per eliminazione fallito.",
+    "today": "Oggi",
+    "onHolidayWith": "In vacanza con",
+    "with": "Con"
   },
   "journal": {
     "meal": "Pasto",

@@ -164,6 +164,7 @@
     "noHandoversRequired": "このスケジュールには引き渡しは不要です。",
     "handoverTime": "引き渡し時間：",
     "handoverAt": "引き渡し時間：",
+    "handover": "引き渡し：",
     "week": "週",
     "oneWeekRepeating": "1週間ごとに繰り返し",
     "twoWeeksRepeating": "2週間ごとに繰り返し",
@@ -185,7 +186,10 @@
     "failedToSubmit": "送信に失敗しました",
     "failedToRequestDeletion": "スケジュール削除リクエストに失敗しました",
     "scheduleMissing": "スケジュールデータがありません",
-    "failedToLoadForDeletion": "削除用スケジュールの読み込みに失敗しました"
+    "failedToLoadForDeletion": "削除用スケジュールの読み込みに失敗しました",
+    "today": "今日",
+    "onHolidayWith": "休暇中",
+    "with": "と一緒"
   },
   "journal": {
     "meal": "食事",

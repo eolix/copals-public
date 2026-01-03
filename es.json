@@ -94,7 +94,10 @@
     "requestFeature": "Solicitar una función",
     "emailSentSuccess": "¡Correo enviado con éxito! Revisa tu carpeta de spam si no ves una respuesta en 7 días hábiles.",
     "issueSentSuccess": "{{type}} enviado! Verifica el estado en: ",
-    "feedbackSubmitFailed": "Error al enviar comentarios. Por favor, inténtalo de nuevo."
+    "feedbackSubmitFailed": "Error al enviar comentarios. Por favor, inténtalo de nuevo.",
+    "appearance": "Apariencia",
+    "useSystemTheme": "Usar tema del sistema",
+    "darkMode": "Modo oscuro"
   },
   "messages": {
     "noMessages": "No hay mensajes todavía",

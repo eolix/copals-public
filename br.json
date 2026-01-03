@@ -94,7 +94,10 @@
     "requestFeature": "Solicitar uma funcionalidade",
     "emailSentSuccess": "E-mail enviado com sucesso! Verifique sua pasta de spam se não receber uma resposta em 7 dias úteis.",
     "issueSentSuccess": "{{type}} enviado! Verifique o status em: ",
-    "feedbackSubmitFailed": "Falha ao enviar feedback. Por favor, tente novamente."
+    "feedbackSubmitFailed": "Falha ao enviar feedback. Por favor, tente novamente.",
+    "appearance": "Aparência",
+    "useSystemTheme": "Usar tema do sistema",
+    "darkMode": "Modo escuro"
   },
   "messages": {
     "noMessages": "Nenhuma mensagem",

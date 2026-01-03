@@ -94,7 +94,10 @@
     "requestFeature": "Request a feature",
     "emailSentSuccess": "Email sent successfully! Check your spam folder if you don't see a reply within 7 working days.",
     "issueSentSuccess": "{{type}} submitted! Check the status at: ",
-    "feedbackSubmitFailed": "Failed to submit feedback. Please try again."
+    "feedbackSubmitFailed": "Failed to submit feedback. Please try again.",
+    "appearance": "Appearance",
+    "useSystemTheme": "Use system theme",
+    "darkMode": "Dark mode"
   },
   "messages": {
     "noMessages": "No messages yet",

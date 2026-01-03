@@ -95,7 +95,10 @@
     "requestFeature": "Begär en funktion",
     "emailSentSuccess": "E-post skickad! Kontrollera din skräppostmapp om du inte ser ett svar inom 7 arbetsdagar.",
     "issueSentSuccess": "{{type}} inskickat! Kontrollera statusen på: ",
-    "feedbackSubmitFailed": "Misslyckades att skicka feedback. Försök igen."
+    "feedbackSubmitFailed": "Misslyckades att skicka feedback. Försök igen.",
+    "appearance": "Utseende",
+    "useSystemTheme": "Använd systemtema",
+    "darkMode": "Mörkt läge"
   },
   "messages": {
     "noMessages": "Inga meddelanden ännu",

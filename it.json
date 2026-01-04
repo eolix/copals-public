@@ -94,7 +94,10 @@
     "requestFeature": "Richiedi una funzionalità",
     "emailSentSuccess": "Email inviata con successo! Controlla la tua cartella spam se non vedi una risposta entro 7 giorni lavorativi.",
     "issueSentSuccess": "{{type}} inviato! Controlla lo stato su: ",
-    "feedbackSubmitFailed": "Invio del feedback fallito. Per favore, riprova."
+    "feedbackSubmitFailed": "Invio del feedback fallito. Per favore, riprova.",
+    "appearance": "Aspetto",
+    "useSystemTheme": "Usa tema di sistema",
+    "darkMode": "Modalità scura"
   },
   "messages": {
     "noMessages": "Nessun messaggio ancora",

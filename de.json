@@ -94,7 +94,10 @@
     "requestFeature": "Eine Funktion anfragen",
     "emailSentSuccess": "E-Mail erfolgreich gesendet! Überprüfen Sie Ihren Spam-Ordner, wenn Sie innerhalb von 7 Werktagen keine Antwort sehen.",
     "issueSentSuccess": "{{type}} eingereicht! Überprüfen Sie den Status unter: ",
-    "feedbackSubmitFailed": "Feedback konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+    "feedbackSubmitFailed": "Feedback konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
+    "appearance": "Erscheinungsbild",
+    "useSystemTheme": "Systemdesign verwenden",
+    "darkMode": "Dunkelmodus"
   },
   "messages": {
     "noMessages": "Noch keine Nachrichten",

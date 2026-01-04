@@ -94,7 +94,10 @@
     "requestFeature": "Demander une fonctionnalité",
     "emailSentSuccess": "E-mail envoyé avec succès ! Vérifiez votre dossier spam si vous ne voyez pas de réponse dans les 7 jours ouvrables.",
     "issueSentSuccess": "{{type}} soumis ! Vérifiez le statut sur : ",
-    "feedbackSubmitFailed": "Échec de l'envoi du commentaire. Veuillez réessayer."
+    "feedbackSubmitFailed": "Échec de l'envoi du commentaire. Veuillez réessayer.",
+    "appearance": "Apparence",
+    "useSystemTheme": "Utiliser le thème du système",
+    "darkMode": "Mode sombre"
   },
   "messages": {
     "noMessages": "Aucun message encore",

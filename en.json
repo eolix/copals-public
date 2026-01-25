@@ -199,6 +199,7 @@
     "editRequestSubmitted": "Edit request submitted.",
     "failedToRequestEdit": "Failed to request schedule edit.",
     "pendingEditExists": "There is already a pending edit request for this schedule.",
+    "onlyApprovedEdit": "Only approved schedules can be edited, please decline or delete the request first.",
     "isRequestingDays": "is requesting to have days:",
     "inExchange": "In exchange,",
     "loadingScheduleData": "Loading schedule data...",

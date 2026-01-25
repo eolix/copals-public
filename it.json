@@ -197,6 +197,7 @@
     "editRequestSubmitted": "Richiesta di modifica inviata.",
     "failedToRequestEdit": "Impossibile richiedere la modifica del calendario.",
     "pendingEditExists": "Esiste già una richiesta di modifica in sospeso per questo calendario.",
+    "onlyApprovedEdit": "Solo i calendari approvati possono essere modificati. Rifiuta o elimina prima la richiesta.",
     "isRequestingDays": "richiede di avere giorni:",
     "inExchange": "In cambio,",
     "loadingScheduleData": "Caricamento dati programma...",

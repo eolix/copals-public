@@ -197,6 +197,7 @@
     "editRequestSubmitted": "Demande de modification envoyée.",
     "failedToRequestEdit": "Impossible de demander la modification du planning.",
     "pendingEditExists": "Il existe déjà une demande de modification en attente pour ce planning.",
+    "onlyApprovedEdit": "Seuls les plannings approuvés peuvent être modifiés. Veuillez d'abord refuser ou supprimer la demande.",
     "isRequestingDays": "demande d'avoir des jours :",
     "inExchange": "En échange,",
     "loadingScheduleData": "Chargement des données du planning...",

@@ -197,6 +197,7 @@
     "editRequestSubmitted": "Änderungsanfrage gesendet.",
     "failedToRequestEdit": "Änderung des Zeitplans konnte nicht angefordert werden.",
     "pendingEditExists": "Für diesen Zeitplan gibt es bereits eine ausstehende Änderungsanfrage.",
+    "onlyApprovedEdit": "Nur genehmigte Zeitpläne können bearbeitet werden. Bitte lehnen Sie die Anfrage zuerst ab oder löschen Sie sie.",
     "isRequestingDays": "beantragt Tage:",
     "inExchange": "Im Austausch,",
     "loadingScheduleData": "Planungsdaten werden geladen...",

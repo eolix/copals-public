@@ -197,6 +197,7 @@
     "editRequestSubmitted": "Solicitud de edición enviada.",
     "failedToRequestEdit": "No se pudo solicitar la edición del horario.",
     "pendingEditExists": "Ya existe una solicitud de edición pendiente para este horario.",
+    "onlyApprovedEdit": "Solo se pueden editar horarios aprobados. Por favor, rechaza o elimina la solicitud primero.",
     "isRequestingDays": "solicita tener días:",
     "inExchange": "A cambio,",
     "loadingScheduleData": "Cargando datos del programa...",

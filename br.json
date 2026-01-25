@@ -199,6 +199,7 @@
     "failedToRequestDeletion": "Falha ao solicitar exclusão da agenda.",
     "scheduleMissing": "Dados da agenda ausentes.",
     "failedToLoadForDeletion": "Falha ao carregar agendas para exclusão.",
+    "onlyApprovedEdit": "Apenas agendas aprovadas podem ser editadas. Rejeite ou exclua a solicitação primeiro.",
     "today": "Hoje",
     "onHolidayWith": "De férias com",
     "with": "Com"

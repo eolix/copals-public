@@ -197,6 +197,7 @@
     "editRequestSubmitted": "編集リクエストを送信しました。",
     "failedToRequestEdit": "予定の編集をリクエストできませんでした。",
     "pendingEditExists": "この予定にはすでに編集リクエストが保留中です。",
+    "onlyApprovedEdit": "承認済みの予定のみ編集できます。先にリクエストを却下または削除してください。",
     "isRequestingDays": "日を希望しています：",
     "inExchange": "交換として、",
     "loadingScheduleData": "スケジュールデータを読み込み中...",

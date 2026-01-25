@@ -199,6 +199,7 @@
     "editRequestSubmitted": "Ändringsbegäran skickad.",
     "failedToRequestEdit": "Det gick inte att begära schemaredigering.",
     "pendingEditExists": "Det finns redan en pågående ändringsbegäran för detta schema.",
+    "onlyApprovedEdit": "Endast godkända scheman kan redigeras. Avvisa eller ta bort begäran först.",
     "isRequestingDays": "begär att ha dagar:",
     "inExchange": "I utbyte,",
     "loadingScheduleData": "Laddar schemadata...",

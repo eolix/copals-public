@@ -15,6 +15,7 @@ All translation files live here at the root of the repository.
 | German                    | `de` | Complete  | in v1.1.1 |
 | Japanese                  | `ja` | Complete  | in v1.1.1 |
 | Brazilian Portuguese (Brazil) | `br` | Complete  | in v1.1.1 |
+| Dutch | `nl` | Complete  | in v1.4.3 |
 
 ## How to Add or Improve a Translation
 1. Fork this repository

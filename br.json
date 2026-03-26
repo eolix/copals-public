@@ -170,6 +170,7 @@
     "flightTo": "para",
     "flightAt": "às",
     "flightArrivalFrom": "chegada de",
+    "flightArrivalTo": "chegada a",
     "departing": "Partida",
     "returning": "Retorno",
     "pleaseEnterFlightNumber": "Por favor, insira um número de voo",

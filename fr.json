@@ -174,6 +174,7 @@
     "flightTo": "vers",
     "flightAt": "à",
     "flightArrivalFrom": "arrivée de",
+    "flightArrivalTo": "arrivée à",
     "departing": "Départ",
     "returning": "Retour",
     "pleaseEnterFlightNumber": "Veuillez entrer un numéro de vol",

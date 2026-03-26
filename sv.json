@@ -176,6 +176,7 @@
     "flightAt": "kl",
     "flightArrival": "Ankomst",
     "flightArrivalFrom": "ankomst från",
+    "flightArrivalTo": "ankomst till",
     "departing": "Avgång",
     "returning": "Återkomst",
     "pleaseEnterFlightNumber": "Vänligen ange ett flygnummer",

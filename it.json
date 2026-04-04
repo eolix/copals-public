@@ -11,6 +11,7 @@
     "edit": "Modifica",
     "delete": "Elimina",
     "next": "Avanti",
+    "back": "Indietro",
     "save": "Salva",
     "undo": "Annulla",
     "sending": "Invio...",
@@ -108,7 +109,8 @@
     "failedToSendMessage": "Invio messaggio fallito",
     "cannotSendMessage": "Il messaggio non può essere inviato. Per favore, riprova.",
     "messageTooLong": "Il messaggio è troppo lungo. Massimo {{max}} caratteri.",
-    "viewOnlyRequests": "Visualizza solo le richieste"
+    "viewOnlyRequests": "Visualizza solo le richieste",
+    "welcomeMessageFromCoPals": "Benvenuti su CoPals. Speriamo che questa app vi aiuti nella co-genitorialità per il bene del vostro bambino/a. Per suggerimenti o domande usa il link Feedback nella scheda Profilo."
   },
   "requests": {
     "loadingRequests": "Caricamento richieste...",
@@ -155,6 +157,21 @@
     "requests": "Richieste",
     "messages": "Messaggi",
     "profile": "Profilo"
+  },
+  "tutorial": {
+    "stepProgress": "Passo {{current}} di {{total}}",
+    "step1Title": "Benvenuto su CoPals",
+    "step1Body": "Benvenuto su CoPals. Domande, idee o qualcosa non funziona? Apri la scheda Profilo e usa il pulsante Feedback; leggiamo ogni messaggio.\n\nCon CoPals potete gestire diversi tipi di programmi in un unico posto. I genitori possono concordare richieste e approvazioni, così tutti sanno cosa aspettarsi.",
+    "step2Title": "Programmi regolari: il vostro schema abituale",
+    "step2Body": "Tocca il pulsante + e scegli Programma regolare. È la base che concordate con l'altro genitore (o insieme ai vostri consulenti legali): con chi il bambino o la bambina di solito passa le notti. Definisce lo schema predefinito del calendario.",
+    "step3Title": "Scambi: modifiche una tantum",
+    "step3Body": "Apri il menu + e scegli Scambia giorni. Usalo per eventi speciali o quando dovete scambiare notti: ad esempio invertire i fine settimana, o chiedere un giorno feriale specifico per riequilibrare quando i programmi cambiano.",
+    "step4Title": "Vacanze: tempo lontano da casa",
+    "step4Body": "Nello stesso menu +, Vacanze serve per viaggi o soggiorni più lunghi fuori da entrambe le case. Potete aggiungere i dettagli del volo così entrambi i genitori vedono le stesse informazioni in modo chiaro in un solo posto.",
+    "step5Title": "Come si sovrappongono i programmi e cosa significano i colori",
+    "step5Body": "I programmi regolari vanno da una data di inizio a una di fine. Scambi e vacanze si sovrappongono e sostituiscono il piano abituale in quei giorni.\n\nTutti i programmi richiedono l'approvazione dell'altro genitore. L'attesa è in giallo; l'approvazione in verde, così vedete a colpo d'occhio il tempo di ciascuno con il bambino o la bambina.\n\nTocca un giorno che ha già un programma per chiedere modifiche (giorni o orari, o eliminare del tutto il programma): passano dalla stessa approvazione delle nuove richieste.",
+    "step6Title": "Messaggi: dove arrivano le richieste",
+    "step6Body": "Le richieste di programma o di modifica compaiono nella scheda Messaggi. Il genitore che le riceve può approvarle o rifiutarle. Fino ad allora chi le ha inviate può annullarle: utile se c'è stato un errore e vanno reinviare.\n\nPotete anche scrivervi messaggi direttamente."
   },
   "calendar": {
     "regularSchedule": "Programma regolare",

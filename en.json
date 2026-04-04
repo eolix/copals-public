@@ -11,6 +11,7 @@
     "edit": "Edit",
     "delete": "Delete",
     "next": "Next",
+    "back": "Back",
     "save": "Save",
     "undo": "Undo",
     "sending": "Sending...",
@@ -108,7 +109,8 @@
     "failedToSendMessage": "Failed to send message",
     "cannotSendMessage": "Cannot send message. Please try again.",
     "messageTooLong": "Message is too long. Maximum {{max}} characters.",
-    "viewOnlyRequests": "Only show requests"
+    "viewOnlyRequests": "Only show requests",
+    "welcomeMessageFromCoPals": "Welcome to CoPals. We hope this app helps you navigate co-parenting for the wellbeing of your child. Feel free to send us suggestions or questions via the Feedback link in the Profile tab."
   },
   "requests": {
     "loadingRequests": "Loading requests...",
@@ -155,6 +157,21 @@
     "requests": "Requests",
     "messages": "Messages",
     "profile": "Profile"
+  },
+  "tutorial": {
+    "stepProgress": "Step {{current}} of {{total}}",
+    "step1Title": "Welcome to CoPals",
+    "step1Body": "Welcome to CoPals. Questions, ideas, or something not working? Open the Profile tab and use the Feedback button; we read every message.\n\nWith CoPals you can manage several kinds of schedules in one place. Co-parents can agree on requests and approvals, so everyone knows what to expect.",
+    "step2Title": "Regular schedules: your usual pattern",
+    "step2Body": "Tap the + button, then choose Regular Schedule. This is the baseline you agree on with the other parent (or together with your legal representatives): which nights your child usually spends with whom. It sets the default pattern the calendar follows.",
+    "step3Title": "Swap schedules: one-off changes",
+    "step3Body": "Open the + menu and choose Swap Days. Use these for special events or when you need to trade nights: for example, swapping weekends, or asking for a specific weekday so you can balance things when plans change.",
+    "step4Title": "Holiday schedules: time away from home",
+    "step4Body": "From the same + menu, choose Holidays for trips or longer time away from both homes. You can add flight details so both parents see the same information clearly in one place.",
+    "step5Title": "How schedules stack and what the colors mean",
+    "step5Body": "Regular schedules run from a start date to an end date. Swap and holiday schedules sit on top and override the regular plan for those days.\n\nAll schedules need approval from the other parent. Pending time shows in yellow; approved time shows in green, so you can see each parent's time at a glance.\n\nTap a day where there's already a schedule to request changes (whether editing the days or times, or deleting the schedule altogether) and those changes go through the same approval like new requests.",
+    "step6Title": "Messages: where requests live",
+    "step6Body": "Schedule or change requests appear in the Messages tab. The parent who receives a request can approve or decline it. Until that happens, the parent who sent it can cancel it; useful if something was wrong and needs to be sent again.\n\nYou can also send messages to the other parent directly."
   },
   "calendar": {
     "regularSchedule": "Regular Schedule",

@@ -10,6 +10,7 @@
     "updating": "Atualizando...",
     "delete": "Excluir",
     "next": "Próximo",
+    "back": "Voltar",
     "save": "Salvar",
     "undo": "Desfazer",
     "sending": "Enviando...",
@@ -107,7 +108,8 @@
     "failedToSendMessage": "Falha ao enviar mensagem",
     "cannotSendMessage": "Mensagem não pode ser enviada. Por favor, tente novamente.",
     "messageTooLong": "Mensagem é muito longa. Máximo de {{max}} caracteres.",
-    "viewOnlyRequests": "Ver apenas pedidos"
+    "viewOnlyRequests": "Ver apenas pedidos",
+    "welcomeMessageFromCoPals": "Bem-vindos ao CoPals. Esperamos que o app ajude vocês na coparentalidade pelo bem-estar do filho ou da filha de vocês. Envie sugestões ou dúvidas pelo link Feedback na aba Perfil."
   },
   "requests": {
     "loadingRequests": "Carregando pedidos...",
@@ -151,6 +153,21 @@
     "requests": "Pedidos",
     "messages": "Mensagens",
     "profile": "Perfil"
+  },
+  "tutorial": {
+    "stepProgress": "Passo {{current}} de {{total}}",
+    "step1Title": "Bem-vindo ao CoPals",
+    "step1Body": "Bem-vindo ao CoPals. Dúvidas, ideias ou algo não funciona? Abra a aba Perfil e use o botão Feedback; lemos todas as mensagens.\n\nNo CoPals vocês podem gerir vários tipos de agendas num só lugar. Os copais podem combinar pedidos e aprovações, para que todos saibam o que esperar.",
+    "step2Title": "Agenda regular: o padrão de vocês",
+    "step2Body": "Toque no botão + e escolha Agenda regular. É a base que combinam com o outro responsável (ou com assessoria jurídica): com quem a criança costuma passar as noites. Define o padrão padrão do calendário.",
+    "step3Title": "Trocas: mudanças pontuais",
+    "step3Body": "Abra o menu + e escolha Trocar dias. Use para eventos especiais ou quando precisarem trocar noites: por exemplo, inverter fins de semana, ou pedir um dia útil específico para equilibrar quando os planos mudam.",
+    "step4Title": "Férias: tempo fora de casa",
+    "step4Body": "No mesmo menu +, Férias serve para viagens ou períodos mais longos fora das duas casas. Podem acrescentar dados de voo para os dois responsáveis verem a mesma informação clara num só sítio.",
+    "step5Title": "Como as agendas se sobrepõem e o que as cores significam",
+    "step5Body": "Agendas regulares vão de uma data de início a uma de fim. Trocas e férias ficam por cima e substituem o plano habitual nesses dias.\n\nTodas as agendas precisam de aprovação do outro responsável. Pendente aparece em amarelo; aprovado em verde, para verem de relance o tempo de cada um com a criança.\n\nToque num dia que já tenha agenda para pedir alterações (editar dias ou horários, ou apagar a agenda por completo): segue a mesma aprovação dos pedidos novos.",
+    "step6Title": "Mensagens: onde ficam os pedidos",
+    "step6Body": "Pedidos de agenda ou de alteração aparecem na aba Mensagens. Quem recebe pode aprovar ou recusar. Até lá, quem enviou pode cancelar — útil se houve erro e precisa reenviar.\n\nTambém podem mandar mensagens diretas um ao outro."
   },
   "calendar": {
     "regularSchedule": "Agenda regular",

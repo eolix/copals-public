@@ -11,6 +11,7 @@
     "edit": "Editar",
     "delete": "Eliminar",
     "next": "Siguiente",
+    "back": "Atrás",
     "save": "Guardar",
     "undo": "Deshacer",
     "sending": "Enviando...",
@@ -108,7 +109,8 @@
     "failedToSendMessage": "Error al enviar mensaje",
     "cannotSendMessage": "No se puede enviar el mensaje. Por favor, inténtalo de nuevo.",
     "messageTooLong": "El mensaje es demasiado largo. Máximo {{max}} caracteres.",
-    "viewOnlyRequests": "Ver solo solicitudes"
+    "viewOnlyRequests": "Ver solo solicitudes",
+    "welcomeMessageFromCoPals": "Bienvenidos a CoPals. Esperamos que esta app facilite la gestión de la coparentalidad en beneficio de los hijos. Envía sugerencias o preguntas cuando quieras desde el enlace de Comentarios en la pestaña Perfil."
   },
   "requests": {
     "loadingRequests": "Cargando solicitudes...",
@@ -155,6 +157,21 @@
     "requests": "Solicitudes",
     "messages": "Mensajes",
     "profile": "Perfil"
+  },
+  "tutorial": {
+    "stepProgress": "Paso {{current}} de {{total}}",
+    "step1Title": "Bienvenido a CoPals",
+    "step1Body": "Bienvenido a CoPals. ¿Dudas, ideas o algo no funciona? Abre la pestaña Perfil y usa el botón Comentarios; leemos todos los mensajes.\n\nCon CoPals podéis gestionar varios tipos de horarios en un solo sitio. Los copadres pueden acordar las solicitudes y las aprobaciones, para que todos sepan qué esperar.",
+    "step2Title": "Horarios regulares: el patrón habitual",
+    "step2Body": "Toca el botón + y elige Programa periódico. Es la base que acordada con el otro progenitor (o junto con los asesores legales): con quién pasa normalmente las noches el niño o la niña. Define el patrón por defecto del calendario.",
+    "step3Title": "Intercambios: cambios puntuales",
+    "step3Body": "Abre el menú + y elige Intercambio de días. Sirve para eventos especiales o cuando surge la necesidad de intercambiar noches: por ejemplo, cambiar fines de semana o pedir un día entre semana concreto para compensar cuando cambian los planes.",
+    "step4Title": "Vacaciones: tiempo fuera del hogar",
+    "step4Body": "En el mismo menú +, Vacaciones es para viajes o estancias más largas fuera de ambos hogares. Se pueden añadir datos de vuelo para que ambos progenitores vean la misma información clara en un solo sitio.",
+    "step5Title": "Cómo se apilan los horarios y qué significan los colores",
+    "step5Body": "Los horarios regulares van de una fecha de inicio a una de fin. Los intercambios y las vacaciones se superponen y sustituyen al plan regular esos días.\n\nTodos los horarios requieren la aprobación del otro progenitor. Lo pendiente se muestra en amarillo; lo aprobado en verde, para ver de un vistazo el tiempo de cada uno con el niño o la niña.\n\nToca un día que ya tenga un horario para pedir cambios (editar días u horarios, o eliminar el horario por completo); siguen el mismo flujo de aprobación que las solicitudes nuevas.",
+    "step6Title": "Mensajes: donde están las solicitudes",
+    "step6Body": "Las solicitudes de horario o de cambio aparecen en la pestaña Mensajes. El progenitor que la recibe puede aprobarla o rechazarla. Hasta entonces, quien la envió puede cancelarla; útil si hubo un error y hay que enviarla de nuevo.\n\nTambién es posible mandar mensajes directamente al otro progenitor."
   },
   "calendar": {
     "regularSchedule": "Programa periódico",

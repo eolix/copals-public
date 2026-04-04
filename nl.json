@@ -11,6 +11,7 @@
     "edit": "Bewerken",
     "delete": "Verwijderen",
     "next": "Volgende",
+    "back": "Terug",
     "save": "Opslaan",
     "undo": "Ongedaan maken",
     "sending": "Verzenden...",
@@ -108,7 +109,8 @@
     "failedToSendMessage": "Verzenden van bericht mislukt",
     "cannotSendMessage": "Kan bericht niet verzenden. Probeer het opnieuw.",
     "messageTooLong": "Bericht is te lang. Maximaal {{max}} tekens.",
-    "viewOnlyRequests": "Alleen verzoeken weergeven"
+    "viewOnlyRequests": "Alleen verzoeken weergeven",
+    "welcomeMessageFromCoPals": "Welkom bij CoPals. We hopen dat deze app jullie helpt bij het co-ouderschap voor het welzijn van jullie kind. Stuur gerust suggesties of vragen via de link Feedback op het tabblad Profiel."
   },
   "requests": {
     "loadingRequests": "Verzoeken laden...",
@@ -155,6 +157,21 @@
     "requests": "Verzoeken",
     "messages": "Berichten",
     "profile": "Profiel"
+  },
+  "tutorial": {
+    "stepProgress": "Stap {{current}} van {{total}}",
+    "step1Title": "Welkom bij CoPals",
+    "step1Body": "Welkom bij CoPals. Vragen, ideeën of iets werkt niet? Open het tabblad Profiel en gebruik de knop Feedback; we lezen elk bericht.\n\nMet CoPals beheren jullie verschillende soorten roosters op één plek. Coparents kunnen afspraken maken over verzoeken en goedkeuringen, zodat iedereen weet wat geldt.",
+    "step2Title": "Regulier rooster: jullie vaste patroon",
+    "step2Body": "Tik op de +-knop en kies Regulier rooster. Dat is de basis die je met de andere ouder (of samen met juridische begeleiding) afstemt: bij wie het kind doorgaans de nachten doorbrengt. Zo ontstaat het standaardpatroon in de kalender.",
+    "step3Title": "Ruil: eenmalige wijzigingen",
+    "step3Body": "Open het +-menu en kies Dagen wisselen. Gebruik dit bij bijzondere gebeurtenissen of als je nachten wilt ruilen: bijvoorbeeld weekenden omwisselen, of een specifieke weekdag vragen om in balans te blijven als plannen veranderen.",
+    "step4Title": "Vakantie: tijd weg van huis",
+    "step4Body": "In hetzelfde +-menu kies je Vakanties voor reizen of langere periodes weg van beide huizen. Je kunt vluchtgegevens toevoegen zodat beide ouders dezelfde informatie duidelijk op één plek zien.",
+    "step5Title": "Hoe roosters elkaar overlappen en wat de kleuren betekenen",
+    "step5Body": "Reguliere roosters lopen van een start- tot een einddatum. Ruil- en vakantieroosters liggen erbovenop en vervangen het reguliere plan op die dagen.\n\nAlle roosters hebben goedkeuring van de andere ouder nodig. In afwachting staat tijd in geel; goedgekeurd in groen, zodat je in één oogopslag ziet wanneer welke ouder tijd met het kind heeft.\n\nTik op een dag die al een rooster heeft om wijzigingen aan te vragen – dagen of tijden aanpassen, of het hele rooster verwijderen – met dezelfde goedkeuring als nieuwe verzoeken.",
+    "step6Title": "Berichten: waar de verzoeken staan",
+    "step6Body": "Schema- of wijzigingsverzoeken verschijnen op het tabblad Berichten. De ouder die het ontvangt kan goedkeuren of weigeren. Tot dan kan de afzender annuleren – handig als er iets mis was en opnieuw moet worden verstuurd.\n\nJullie kunnen elkaar ook rechtstreeks berichten sturen."
   },
   "calendar": {
     "regularSchedule": "Regulier rooster",

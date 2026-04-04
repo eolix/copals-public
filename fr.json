@@ -11,6 +11,7 @@
     "edit": "Modifier",
     "delete": "Supprimer",
     "next": "Suivant",
+    "back": "Retour",
     "save": "Enregistrer",
     "undo": "Annuler",
     "sending": "Envoi...",
@@ -108,7 +109,8 @@
     "failedToSendMessage": "Échec de l'envoi du message",
     "cannotSendMessage": "Le message ne peut pas être envoyé. Veuillez réessayer.",
     "messageTooLong": "Le message est trop long. Maximum {{max}} caractères.",
-    "viewOnlyRequests": "Voir uniquement les demandes"
+    "viewOnlyRequests": "Voir uniquement les demandes",
+    "welcomeMessageFromCoPals": "Bienvenue sur CoPals. Nous espérons que cette application vous aidera, à tous les deux, à mieux vivre la coparentalité pour le bien-être de votre enfant. N’hésite pas à nous faire part de tes suggestions ou questions via le lien Commentaires de l’onglet Profil."
   },
   "requests": {
     "loadingRequests": "Chargement des demandes...",
@@ -155,6 +157,21 @@
     "requests": "Demandes",
     "messages": "Messages",
     "profile": "Profil"
+  },
+  "tutorial": {
+    "stepProgress": "Étape {{current}} sur {{total}}",
+    "step1Title": "Bienvenue sur CoPals",
+    "step1Body": "Bienvenue sur CoPals. Des questions, des idées ou un souci ? Ouvrez l'onglet Profil et utilisez le bouton Commentaires ; nous lisons tous les messages.\n\nAvec CoPals, vous pouvez gérer plusieurs types de plannings au même endroit. Les coparents peuvent se mettre d'accord sur les demandes et les validations, pour que chacun sache à quoi s'en tenir.",
+    "step2Title": "Plannings réguliers : votre rythme habituel",
+    "step2Body": "Appuyez sur le bouton +, puis choisissez Planning régulier. C'est la base que vous convenez avec l'autre parent (ou avec vos conseils juridiques) : avec qui l'enfant passe habituellement les nuits. Cela définit le modèle par défaut du calendrier.",
+    "step3Title": "Échanges : changements ponctuels",
+    "step3Body": "Ouvrez le menu + et choisissez Échange de jours. À utiliser pour des événements particuliers ou pour échanger des nuits : par exemple inverser des week-ends, ou demander un jour de semaine précis pour rééquilibrer quand les projets changent.",
+    "step4Title": "Vacances : temps loin du domicile",
+    "step4Body": "Dans le même menu +, Vacances sert aux voyages ou aux absences plus longues hors des deux foyers. Vous pouvez ajouter les infos de vol pour que les deux parents voient clairement les mêmes informations au même endroit.",
+    "step5Title": "Comment les plannings se superposent et ce que signifient les couleurs",
+    "step5Body": "Les plannings réguliers vont d'une date de début à une date de fin. Les échanges et les vacances se superposent et remplacent le planning habituel ces jours-là.\n\nTous les plannings nécessitent l'accord de l'autre parent. L'attente apparaît en jaune ; l'approbation en vert, pour voir d'un coup d'œil le temps de chacun avec l'enfant.\n\nAppuyez sur un jour qui a déjà un planning pour demander des modifications (changer les jours ou les horaires, ou supprimer tout le planning) : cela suit la même validation que les nouvelles demandes.",
+    "step6Title": "Messages : où se trouvent les demandes",
+    "step6Body": "Les demandes de planning ou de modification apparaissent dans l'onglet Messages. Le parent qui les reçoit peut les accepter ou les refuser. D'ici là, l'expéditeur peut les annuler — pratique en cas d'erreur à renvoyer.\n\nVous pouvez aussi vous écrire directement."
   },
   "calendar": {
     "regularSchedule": "Planning régulier",

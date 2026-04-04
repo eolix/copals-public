@@ -11,6 +11,7 @@
     "edit": "Bearbeiten",
     "delete": "Löschen",
     "next": "Weiter",
+    "back": "Zurück",
     "save": "Speichern",
     "undo": "Rückgängig",
     "sending": "Wird gesendet...",
@@ -108,7 +109,8 @@
     "failedToSendMessage": "Nachricht konnte nicht gesendet werden",
     "cannotSendMessage": "Nachricht kann nicht gesendet werden. Bitte versuchen Sie es erneut.",
     "messageTooLong": "Nachricht ist zu lang. Maximal {{max}} Zeichen.",
-    "viewOnlyRequests": "Nur Anfragen anzeigen"
+    "viewOnlyRequests": "Nur Anfragen anzeigen",
+    "welcomeMessageFromCoPals": "Willkommen bei CoPals. Wir hoffen, dass euch diese App bei der gemeinsamen Elternschaft zum Wohl eures Kindes hilft. Schick uns gern Anregungen oder Fragen über den Link „Feedback“ im Tab „Profil“."
   },
   "requests": {
     "loadingRequests": "Anfragen werden geladen...",
@@ -155,6 +157,21 @@
     "requests": "Anfragen",
     "messages": "Nachrichten",
     "profile": "Profil"
+  },
+  "tutorial": {
+    "stepProgress": "Schritt {{current}} von {{total}}",
+    "step1Title": "Willkommen bei CoPals",
+    "step1Body": "Willkommen bei CoPals. Fragen, Ideen oder etwas funktioniert nicht? Öffne den Tab „Profil“ und nutze die Schaltfläche „Feedback“; wir lesen jede Nachricht.\n\nMit CoPals könnt ihr verschiedene Arten von Plänen an einem Ort verwalten. Ihr könnt euch zu Anfragen und Freigaben verständigen, damit alle wissen, was gilt.",
+    "step2Title": "Regelmäßige Pläne: euer übliches Muster",
+    "step2Body": "Tippe auf die +-Schaltfläche und wähle „Regelmäßige Planung“. Das ist die Basis, die du mit dem anderen Elternteil (oder gemeinsam mit eurer Rechtsberatung) vereinbarst: bei wem dein Kind nachts üblicherweise ist. So legt sich das Standardmuster im Kalender fest.",
+    "step3Title": "Tauschpläne: einmalige Änderungen",
+    "step3Body": "Öffne das +-Menü und wähle „Tage tauschen“. Nutze das für besondere Anlässe oder wenn ihr Nächte tauschen wollt: etwa Wochenenden tauschen oder einen bestimmten Werktag anfragen, um den Ausgleich anzupassen, wenn sich Pläne ändern.",
+    "step4Title": "Urlaubspläne: Zeit außerhalb der Elternhaushalte",
+    "step4Body": "Im selben +-Menü wählst du „Urlaub“ für Reisen oder längere Zeiten außerhalb beider Haushalte. Du kannst Flugdaten eintragen, damit beide Elternteile dieselben Infos klar an einem Ort sehen.",
+    "step5Title": "Wie Pläne sich stapeln und was die Farben bedeuten",
+    "step5Body": "Regelmäßige Pläne laufen von einem Start- bis zu einem Enddatum. Tausch- und Urlaubspläne liegen darüber und setzen den regulären Plan an diesen Tagen außer Kraft.\n\nAlle Pläne brauchen die Zustimmung des anderen Elternteils. Ausstehende Zeiten erscheinen gelb; freigegebene Zeiten grün – so seht ihr auf einen Blick, wann wer Zeit mit dem Kind hat.\n\nTippe auf einen Tag, an dem schon ein Plan steht, um Änderungen anzufragen (ob Tage oder Zeiten bearbeiten oder den Plan ganz löschen) – das läuft wie bei neuen Anfragen durch die Freigabe.",
+    "step6Title": "Nachrichten: Hier landen die Anfragen",
+    "step6Body": "Plan- oder Änderungsanfragen erscheinen im Tab „Nachrichten“. Der Elternteil, der eine Anfrage erhält, kann sie annehmen oder ablehnen. Bis dahin kann der sendende Elternteil sie zurückziehen – praktisch, wenn etwas falsch war und neu gesendet werden soll.\n\nIhr könnt euch auch direkt gegenseitig Nachrichten schreiben."
   },
   "calendar": {
     "regularSchedule": "Regelmäßige Planung",

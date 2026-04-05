@@ -198,6 +198,7 @@
     "returning": "Returning",
     "pleaseEnterFlightNumber": "Please enter a flight number",
     "failedToFetchFlight": "Failed to fetch flight information",
+    "timesInUTC": "All times displayed are in UTC (Coordinated Universal Time)",
     "noHandoversRequired": "No handovers required for this schedule.",
     "handoverTime": "handover time:",
     "handoverAt": "Handover at:",

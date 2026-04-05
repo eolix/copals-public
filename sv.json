@@ -198,6 +198,7 @@
     "returning": "Återkomst",
     "pleaseEnterFlightNumber": "Vänligen ange ett flygnummer",
     "failedToFetchFlight": "Kunde inte hämta flyginformation",
+    "timesInUTC": "Alla tider visas i UTC (Coordinated Universal Time)",
     "noHandoversRequired": "Ingen överlämning krävs för detta schema.",
     "handoverTime": "överlämningstid:",
     "handoverAt": "Överlämning kl:",

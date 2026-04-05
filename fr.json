@@ -196,6 +196,7 @@
     "returning": "Retour",
     "pleaseEnterFlightNumber": "Veuillez entrer un numéro de vol",
     "failedToFetchFlight": "Échec de la récupération des informations de vol",
+    "timesInUTC": "Tous les horaires affichés sont en UTC (Temps Universel Coordonné)",
     "noHandoversRequired": "Aucun transfert requis pour ce planning.",
     "handoverTime": "heure de transfert :",
     "handoverAt": "Transfert à:",

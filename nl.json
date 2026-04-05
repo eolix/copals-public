@@ -198,6 +198,7 @@
     "returning": "Terugkerend",
     "pleaseEnterFlightNumber": "Voer een vluchtnummer in",
     "failedToFetchFlight": "Ophalen van vluchtinformatie mislukt",
+    "timesInUTC": "Alle tijden worden getoond in UTC (Coördineerde Wereldtijd)",
     "noHandoversRequired": "Geen overdrachten vereist voor dit rooster.",
     "handoverTime": "overdrachtstijd:",
     "handoverAt": "Overdracht om:",

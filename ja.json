@@ -196,6 +196,7 @@
     "returning": "帰国",
     "pleaseEnterFlightNumber": "フライト番号を入力してください",
     "failedToFetchFlight": "フライト情報の取得に失敗しました",
+    "timesInUTC": "すべての表示時間はUTC（世界標準時）です",
     "noHandoversRequired": "このスケジュールには引き渡しは不要です。",
     "handoverTime": "引き渡し時間：",
     "handoverAt": "引き渡し時間：",

@@ -196,6 +196,7 @@
     "returning": "Rückflug",
     "pleaseEnterFlightNumber": "Bitte geben Sie eine Flugnummer ein",
     "failedToFetchFlight": "Fluginformationen konnten nicht abgerufen werden",
+    "timesInUTC": "Alle angezeigten Zeiten sind in UTC (Koordinierte Weltzeit)",
     "noHandoversRequired": "Keine Übergaben für diesen Plan erforderlich.",
     "handoverTime": "Übergabezeit:",
     "handoverAt": "Übergabe um:",

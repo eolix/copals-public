@@ -196,6 +196,7 @@
     "returning": "Ritorno",
     "pleaseEnterFlightNumber": "Inserisci un numero di volo",
     "failedToFetchFlight": "Impossibile recuperare le informazioni del volo",
+    "timesInUTC": "Tutti gli orari mostrati sono in UTC (Tempo Coordinato Universale)",
     "noHandoversRequired": "Nessuna scambio richiesta per questo programma.",
     "handoverTime": "orario scambio:",
     "handoverAt": "Scambio alle:",

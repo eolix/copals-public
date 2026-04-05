@@ -192,6 +192,7 @@
     "returning": "Retorno",
     "pleaseEnterFlightNumber": "Por favor, insira um número de voo",
     "failedToFetchFlight": "Falha ao obter informações do voo",
+    "timesInUTC": "Todos os horários exibidos são em UTC (Tempo Universal Coordenado)",
     "noHandoversRequired": "Nenhuma troca necessária para esta agenda.",
     "handoverTime": "horário de troca:",
     "handoverAt": "Troca às:",

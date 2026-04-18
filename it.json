@@ -273,6 +273,22 @@
     "updateFailed": "Aggiornamento voce fallito.",
     "deleteFailed": "Eliminazione voce fallita."
   },
+  "reminders": {
+    "reminder": "Promemoria",
+    "enterTitle": "Di cosa vuoi che ti ricordiamo?",
+    "enterDetails": "Aggiungi altro contesto (facoltativo)",
+    "notify": "Avvisa",
+    "notifyAtTime": "All'ora",
+    "notifyMinutesBefore": "{{minutes}} min prima",
+    "notifyHourBefore": "1 ora prima",
+    "maxPerDay": "Puoi avere fino a 2 promemoria al giorno.",
+    "missingTitle": "Aggiungi un titolo al promemoria.",
+    "enableNotifications": "Abilita le notifiche per ricevere un avviso al momento giusto.",
+    "permissionDeniedTitle": "Notifiche bloccate",
+    "permissionDeniedBody": "I promemoria non possono essere inviati senza il permesso delle notifiche. Abilitalle nelle impostazioni del dispositivo e riprova.",
+    "notInPast": "L'ora della notifica è già passata; scegli un orario successivo.",
+    "otherParentBannerTitle": "Hai un promemoria in questo giorno"
+  },
   "auth": {
     "existingAccount": "Accedi",
     "newAccount": "Nuovo account",

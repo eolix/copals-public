@@ -273,6 +273,22 @@
     "updateFailed": "Échec de la mise à jour de l'entrée.",
     "deleteFailed": "Échec de la suppression de l'entrée."
   },
+  "reminders": {
+    "reminder": "Rappel",
+    "enterTitle": "De quoi souhaitez-vous être rappelé ?",
+    "enterDetails": "Ajoutez du contexte (facultatif)",
+    "notify": "Notifier",
+    "notifyAtTime": "À l'heure",
+    "notifyMinutesBefore": "{{minutes}} min avant",
+    "notifyHourBefore": "1 heure avant",
+    "maxPerDay": "Vous pouvez avoir jusqu'à 2 rappels par jour.",
+    "missingTitle": "Veuillez ajouter un titre au rappel.",
+    "enableNotifications": "Activez les notifications pour être alerté à l'heure prévue.",
+    "permissionDeniedTitle": "Notifications bloquées",
+    "permissionDeniedBody": "Les rappels ne peuvent pas être envoyés sans autorisation de notifications. Activez-les dans les paramètres de l'appareil, puis réessayez.",
+    "notInPast": "L'heure de notification est déjà passée ; choisissez une heure ultérieure.",
+    "otherParentBannerTitle": "Vous avez un rappel ce jour-là"
+  },
   "auth": {
     "existingAccount": "Compte existant",
     "newAccount": "Nouveau compte",

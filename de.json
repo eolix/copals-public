@@ -273,6 +273,22 @@
     "updateFailed": "Fehler beim Aktualisieren des Eintrags.",
     "deleteFailed": "Fehler beim Löschen des Eintrags."
   },
+  "reminders": {
+    "reminder": "Erinnerung",
+    "enterTitle": "Woran sollen wir erinnern?",
+    "enterDetails": "Zusätzlichen Kontext hinzufügen (optional)",
+    "notify": "Benachrichtigen",
+    "notifyAtTime": "Zur Uhrzeit",
+    "notifyMinutesBefore": "{{minutes}} Min. vorher",
+    "notifyHourBefore": "1 Stunde vorher",
+    "maxPerDay": "Du kannst bis zu 2 Erinnerungen pro Tag haben.",
+    "missingTitle": "Bitte gib einen Titel für die Erinnerung ein.",
+    "enableNotifications": "Aktiviere Benachrichtigungen, um rechtzeitig informiert zu werden.",
+    "permissionDeniedTitle": "Benachrichtigungen blockiert",
+    "permissionDeniedBody": "Ohne Erlaubnis für Benachrichtigungen können keine Erinnerungen gesendet werden. Aktiviere Benachrichtigungen in den Geräteeinstellungen und versuche es erneut.",
+    "notInPast": "Die Benachrichtigungszeit liegt in der Vergangenheit; wähle eine spätere Zeit.",
+    "otherParentBannerTitle": "Du hast an diesem Tag eine Erinnerung"
+  },
   "auth": {
     "existingAccount": "Bestehendes Konto",
     "newAccount": "Neues Konto",

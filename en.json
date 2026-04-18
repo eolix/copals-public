@@ -275,6 +275,22 @@
     "updateFailed": "Failed to update entry.",
     "deleteFailed": "Failed to delete entry."
   },
+  "reminders": {
+    "reminder": "Reminder",
+    "enterTitle": "What should we remind you about?",
+    "enterDetails": "Add any extra context (optional)",
+    "notify": "Notify",
+    "notifyAtTime": "At time",
+    "notifyMinutesBefore": "{{minutes}} min before",
+    "notifyHourBefore": "1 hour before",
+    "maxPerDay": "You can have up to 2 reminders per day.",
+    "missingTitle": "Please add a title for the reminder.",
+    "enableNotifications": "Enable notifications to be alerted when it's time.",
+    "permissionDeniedTitle": "Notifications blocked",
+    "permissionDeniedBody": "Reminders can't be sent without notification permission. Enable notifications in your device settings, then try again.",
+    "notInPast": "Notification time has already passed; pick a later time.",
+    "otherParentBannerTitle": "You have a reminder on this day"
+  },
   "auth": {
     "existingAccount": "Existing account",
     "newAccount": "New account",

@@ -275,6 +275,22 @@
     "updateFailed": "Bijwerken van item mislukt.",
     "deleteFailed": "Verwijderen van item mislukt."
   },
+  "reminders": {
+    "reminder": "Herinnering",
+    "enterTitle": "Waaraan moeten we je herinneren?",
+    "enterDetails": "Extra context toevoegen (optioneel)",
+    "notify": "Melden",
+    "notifyAtTime": "Op tijd",
+    "notifyMinutesBefore": "{{minutes}} min eerder",
+    "notifyHourBefore": "1 uur eerder",
+    "maxPerDay": "Je kunt maximaal 2 herinneringen per dag hebben.",
+    "missingTitle": "Voeg een titel toe voor de herinnering.",
+    "enableNotifications": "Schakel meldingen in om op tijd een seintje te krijgen.",
+    "permissionDeniedTitle": "Meldingen geblokkeerd",
+    "permissionDeniedBody": "Herinneringen kunnen niet worden verstuurd zonder toestemming voor meldingen. Schakel meldingen in via de apparaatinstellingen en probeer het opnieuw.",
+    "notInPast": "De tijd voor de melding is al voorbij; kies een latere tijd.",
+    "otherParentBannerTitle": "Je hebt op deze dag een herinnering"
+  },
   "auth": {
     "existingAccount": "Bestaand account",
     "newAccount": "Nieuw account",

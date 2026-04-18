@@ -265,6 +265,22 @@
     "updateFailed": "Falha ao atualizar entrada.",
     "deleteFailed": "Falha ao excluir entrada."
   },
+  "reminders": {
+    "reminder": "Lembrete",
+    "enterTitle": "Sobre o que devemos te lembrar?",
+    "enterDetails": "Adicione contexto extra (opcional)",
+    "notify": "Notificar",
+    "notifyAtTime": "No horário",
+    "notifyMinutesBefore": "{{minutes}} min antes",
+    "notifyHourBefore": "1 hora antes",
+    "maxPerDay": "Você pode ter até 2 lembretes por dia.",
+    "missingTitle": "Adicione um título ao lembrete.",
+    "enableNotifications": "Ative as notificações para ser avisado na hora certa.",
+    "permissionDeniedTitle": "Notificações bloqueadas",
+    "permissionDeniedBody": "Lembretes não podem ser enviados sem permissão de notificações. Ative nas configurações do dispositivo e tente novamente.",
+    "notInPast": "O horário da notificação já passou; escolha um horário mais tarde.",
+    "otherParentBannerTitle": "Você tem um lembrete neste dia"
+  },
   "auth": {
     "existingAccount": "Conta existente",
     "newAccount": "Nova conta",

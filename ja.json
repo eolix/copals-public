@@ -273,6 +273,22 @@
     "updateFailed": "記録の更新に失敗しました。",
     "deleteFailed": "記録の削除に失敗しました。"
   },
+  "reminders": {
+    "reminder": "リマインダー",
+    "enterTitle": "何のリマインダーにしますか？",
+    "enterDetails": "補足があれば入力（任意）",
+    "notify": "通知",
+    "notifyAtTime": "その時間に",
+    "notifyMinutesBefore": "{{minutes}}分前",
+    "notifyHourBefore": "1時間前",
+    "maxPerDay": "1日に設定できるリマインダーは最大2件です。",
+    "missingTitle": "リマインダーのタイトルを入力してください。",
+    "enableNotifications": "時間どおりに通知を受け取るには、通知をオンにしてください。",
+    "permissionDeniedTitle": "通知がブロックされています",
+    "permissionDeniedBody": "通知の許可がないとリマインダーを送れません。端末の設定で通知を許可してから、もう一度お試しください。",
+    "notInPast": "通知の時刻はすでに過ぎています。より後の時刻を選んでください。",
+    "otherParentBannerTitle": "この日にリマインダーがあります"
+  },
   "auth": {
     "existingAccount": "既存のアカウント",
     "newAccount": "新しいアカウント",

@@ -273,6 +273,22 @@
     "updateFailed": "Error al actualizar la entrada.",
     "deleteFailed": "Error al eliminar la entrada."
   },
+  "reminders": {
+    "reminder": "Recordatorio",
+    "enterTitle": "¿Sobre qué te recordamos?",
+    "enterDetails": "Añade contexto extra (opcional)",
+    "notify": "Notificar",
+    "notifyAtTime": "A la hora",
+    "notifyMinutesBefore": "{{minutes}} min antes",
+    "notifyHourBefore": "1 hora antes",
+    "maxPerDay": "Puedes tener hasta 2 recordatorios por día.",
+    "missingTitle": "Añade un título al recordatorio.",
+    "enableNotifications": "Activa las notificaciones para recibir alertas a tiempo.",
+    "permissionDeniedTitle": "Notificaciones bloqueadas",
+    "permissionDeniedBody": "No se pueden enviar recordatorios sin permiso de notificaciones. Actívalas en los ajustes del dispositivo e inténtalo de nuevo.",
+    "notInPast": "La hora de la notificación ya pasó; elige una hora posterior.",
+    "otherParentBannerTitle": "Tienes un recordatorio este día"
+  },
   "auth": {
     "existingAccount": "Cuenta existente",
     "newAccount": "Cuenta nueva",

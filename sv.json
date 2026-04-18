@@ -275,6 +275,22 @@
     "updateFailed": "Misslyckades att uppdatera inlägg.",
     "deleteFailed": "Misslyckades att radera inlägg."
   },
+  "reminders": {
+    "reminder": "Påminnelse",
+    "enterTitle": "Vad ska vi påminna dig om?",
+    "enterDetails": "Lägg till extra sammanhang (valfritt)",
+    "notify": "Meddela",
+    "notifyAtTime": "Vid tiden",
+    "notifyMinutesBefore": "{{minutes}} min innan",
+    "notifyHourBefore": "1 timme innan",
+    "maxPerDay": "Du kan ha upp till 2 påminnelser per dag.",
+    "missingTitle": "Lägg till en titel för påminnelsen.",
+    "enableNotifications": "Aktivera aviseringar för att få larm i tid.",
+    "permissionDeniedTitle": "Aviseringar blockerade",
+    "permissionDeniedBody": "Påminnelser kan inte skickas utan tillstånd för aviseringar. Aktivera aviseringar i enhetens inställningar och försök igen.",
+    "notInPast": "Aviseringstiden har redan passerat; välj en senare tid.",
+    "otherParentBannerTitle": "Du har en påminnelse denna dag"
+  },
   "auth": {
     "existingAccount": "Befintligt konto",
     "newAccount": "Nytt konto",

@@ -275,7 +275,7 @@
   },
   "reminders": {
     "reminder": "Erinnerung",
-    "enterTitle": "Woran sollen wir erinnern?",
+    "enterTitle": "Erinnerung für?",
     "enterDetails": "Zusätzlichen Kontext hinzufügen (optional)",
     "notify": "Benachrichtigen",
     "notifyAtTime": "Zur Uhrzeit",

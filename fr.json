@@ -275,7 +275,7 @@
   },
   "reminders": {
     "reminder": "Rappel",
-    "enterTitle": "De quoi souhaitez-vous être rappelé ?",
+    "enterTitle": "Rappel pour?",
     "enterDetails": "Ajoutez du contexte (facultatif)",
     "notify": "Notifier",
     "notifyAtTime": "À l'heure",

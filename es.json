@@ -275,7 +275,7 @@
   },
   "reminders": {
     "reminder": "Recordatorio",
-    "enterTitle": "¿Sobre qué te recordamos?",
+    "enterTitle": "Recordatorio para?",
     "enterDetails": "Añade contexto extra (opcional)",
     "notify": "Notificar",
     "notifyAtTime": "A la hora",

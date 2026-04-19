@@ -277,7 +277,7 @@
   },
   "reminders": {
     "reminder": "Reminder",
-    "enterTitle": "What should we remind you about?",
+    "enterTitle": "Reminder for?",
     "enterDetails": "Add any extra context (optional)",
     "notify": "Notify",
     "notifyAtTime": "At time",

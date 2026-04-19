@@ -277,7 +277,7 @@
   },
   "reminders": {
     "reminder": "Påminnelse",
-    "enterTitle": "Vad ska vi påminna dig om?",
+    "enterTitle": "Påminnelse för?",
     "enterDetails": "Lägg till extra sammanhang (valfritt)",
     "notify": "Meddela",
     "notifyAtTime": "Vid tiden",

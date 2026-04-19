@@ -275,7 +275,7 @@
   },
   "reminders": {
     "reminder": "リマインダー",
-    "enterTitle": "何のリマインダーにしますか？",
+    "enterTitle": "リマインダーにしますか？",
     "enterDetails": "補足があれば入力（任意）",
     "notify": "通知",
     "notifyAtTime": "その時間に",

@@ -277,7 +277,7 @@
   },
   "reminders": {
     "reminder": "Herinnering",
-    "enterTitle": "Waaraan moeten we je herinneren?",
+    "enterTitle": "Herinnering voor?",
     "enterDetails": "Extra context toevoegen (optioneel)",
     "notify": "Melden",
     "notifyAtTime": "Op tijd",

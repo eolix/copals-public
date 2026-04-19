@@ -275,7 +275,7 @@
   },
   "reminders": {
     "reminder": "Promemoria",
-    "enterTitle": "Di cosa vuoi che ti ricordiamo?",
+    "enterTitle": "Promemoria per?",
     "enterDetails": "Aggiungi altro contesto (facoltativo)",
     "notify": "Avvisa",
     "notifyAtTime": "All'ora",

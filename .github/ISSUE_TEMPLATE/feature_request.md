@@ -6,6 +6,9 @@ labels: enhancement
 assignees: ''
 
 ---
+**App version:**
+<!-- e.g. 1.6.0 -->
+
 **Is your feature request related to a problem?**
 A clear description of what the problem is.
 

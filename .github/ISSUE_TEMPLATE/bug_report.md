@@ -6,6 +6,9 @@ labels: bug
 assignees: ''
 
 ---
+**App version:**
+<!-- e.g. 1.6.0 -->
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 

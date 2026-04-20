@@ -347,7 +347,7 @@
     "familyComplete": "Familjen är komplett, kontakta support på hello@copals.app om detta är oväntat.",
     "phoneNotMatched": "Telefonnumret matchar inte inbjudan. Vänligen ange telefonnumret du blev inbjuden till.",
     "verifyPhone": "Verifiera telefonnummer",
-    "verifyPhoneInstructions": "Du blev inbjuden via telefon. Vänligen ange telefonnumret du blev inbjuden till:",
-    "verifyAndJoin": "Verifiera och gå med"
+    "verifyPhoneInstructions": "Du blev inbjuden via SMS. Vänligen ange telefonnumret du blev inbjuden till:",
+    "verifyAndJoin": "Gå med"
   }
 }

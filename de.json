@@ -345,7 +345,7 @@
     "familyComplete": "Familie ist vollständig, kontaktieren Sie den Support unter hello@copals.app, wenn dies unerwartet ist.",
     "phoneNotMatched": "Die Telefonnummer stimmt nicht mit der Einladung überein. Bitte geben Sie die Telefonnummer ein, zu der Sie eingeladen wurden.",
     "verifyPhone": "Telefonnummer überprüfen",
-    "verifyPhoneInstructions": "Sie wurden per Telefon eingeladen. Bitte geben Sie die Telefonnummer ein, zu der Sie eingeladen wurden:",
-    "verifyAndJoin": "Überprüfen & Beitreten"
+    "verifyPhoneInstructions": "Sie wurden per SMS eingeladen. Bitte geben Sie die Telefonnummer ein, zu der Sie eingeladen wurden:",
+    "verifyAndJoin": "Beitreten"
   }
 }

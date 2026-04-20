@@ -347,7 +347,7 @@
     "familyComplete": "De familie is compleet, neem contact op met de ondersteuning via hello@copals.app als dit onverwacht is.",
     "phoneNotMatched": "Telefoonnummer komt niet overeen met de uitnodiging. Voer het telefoonnummer in waarvoor je bent uitgenodigd.",
     "verifyPhone": "Telefoonnummer verifiëren",
-    "verifyPhoneInstructions": "Je bent uitgenodigd via telefoon. Voer het telefoonnummer in waarvoor je bent uitgenodigd:",
-    "verifyAndJoin": "Verifiëren en lid worden"
+    "verifyPhoneInstructions": "Je bent uitgenodigd via SMS. Voer het telefoonnummer in waarvoor je bent uitgenodigd:",
+    "verifyAndJoin": "Lid worden"
   }
 }

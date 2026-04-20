@@ -346,6 +346,6 @@
     "phoneNotMatched": "電話番号が招待と一致しません。招待された電話番号を入力してください。",
     "verifyPhone": "電話番号を確認",
     "verifyPhoneInstructions": "電話で招待されました。招待された電話番号を入力してください：",
-    "verifyAndJoin": "確認して参加"
+    "verifyAndJoin": "参加"
   }
 }

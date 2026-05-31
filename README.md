@@ -16,10 +16,15 @@ All translation files live here at the root of the repository.
 | Japanese                  | `ja` | Complete  | in v1.1.1 |
 | Brazilian Portuguese (Brazil) | `br` | Complete  | in v1.1.1 |
 | Dutch | `nl` | Complete  | in v1.4.3 |
+| Ukrainian | `uk` | Complete  | in v1.6.4 |
+| Finnish | `fi` | Complete  | in v1.6.4 |
+| Hungarian | `hu` | Complete  | in v1.6.4 |
+| Polish | `pl` | Complete  | in v1.6.4 |
+| Romanian | `ro` | Complete  | in v1.6.4 |
 
 ## How to Add or Improve a Translation
 1. Fork this repository
-2. Create a new file `<language-code>.json` (e.g. `pl.json` for Polish)  
+2. Create a new file `<language-code>.json` (e.g. `dk.json` for Danish)  
    → Copy the structure from `en.json` and translate the values
 3. Or edit an existing file to fix/improve translations
 4. Open a Pull Request 

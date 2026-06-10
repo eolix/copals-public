@@ -171,7 +171,9 @@
     "step5Title": "Cómo se apilan los horarios y qué significan los colores",
     "step5Body": "Los horarios regulares van de una fecha de inicio a una de fin. Los intercambios y las vacaciones se superponen y sustituyen al plan regular esos días.\n\nTodos los horarios requieren la aprobación del otro progenitor. Lo pendiente se muestra en amarillo; lo aprobado en verde, para ver de un vistazo el tiempo de cada uno con el niño o la niña.\n\nToca un día que ya tenga un horario para pedir cambios (editar días u horarios, o eliminar el horario por completo); siguen el mismo flujo de aprobación que las solicitudes nuevas.",
     "step6Title": "Mensajes: donde están las solicitudes",
-    "step6Body": "Las solicitudes de horario o de cambio aparecen en la pestaña Mensajes. El progenitor que la recibe puede aprobarla o rechazarla. Hasta entonces, quien la envió puede cancelarla; útil si hubo un error y hay que enviarla de nuevo.\n\nTambién es posible mandar mensajes directamente al otro progenitor."
+    "step6Body": "Las solicitudes de horario o de cambio aparecen en la pestaña Mensajes. El progenitor que la recibe puede aprobarla o rechazarla. Hasta entonces, quien la envió puede cancelarla; útil si hubo un error y hay que enviarla de nuevo.\n\nTambién es posible mandar mensajes directamente al otro progenitor.",
+    "step7Title": "Invita al otro progenitor",
+    "step7Body": "Para empezar, invita al otro progenitor de tu hijo o hija a unirse a la app:"
   },
   "calendar": {
     "regularSchedule": "Programa periódico",

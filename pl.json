@@ -171,7 +171,9 @@
     "step5Title": "Jak harmonogramy się nakładają i co oznaczają kolory",
     "step5Body": "Regularne harmonogramy obowiązują od daty początkowej do końcowej. Harmonogramy zamian i wakacji nakładają się na nie i zastępują regularny plan w tych dniach.\n\nWszystkie harmonogramy wymagają akceptacji drugiego rodzica. Oczekujący czas jest oznaczony na żółto; zaakceptowany na zielono, dzięki czemu możesz od razu zobaczyć czas każdego rodzica.\n\nDotknij dnia, w którym jest już harmonogram, aby poprosić o zmiany (edycję dni lub godzin albo całkowite usunięcie harmonogramu) — te zmiany przechodzą przez ten sam proces akceptacji co nowe prośby.",
     "step6Title": "Wiadomości: miejsce, w którym są prośby",
-    "step6Body": "Prośby o harmonogram lub zmiany pojawiają się w zakładce Wiadomości. Rodzic, który otrzymuje prośbę, może ją zaakceptować lub odrzucić. Do tego momentu rodzic, który ją wysłał, może ją anulować — przydatne, gdy coś poszło nie tak i trzeba wysłać ponownie.\n\nMożesz też wysyłać wiadomości bezpośrednio do drugiego rodzica."
+    "step6Body": "Prośby o harmonogram lub zmiany pojawiają się w zakładce Wiadomości. Rodzic, który otrzymuje prośbę, może ją zaakceptować lub odrzucić. Do tego momentu rodzic, który ją wysłał, może ją anulować — przydatne, gdy coś poszło nie tak i trzeba wysłać ponownie.\n\nMożesz też wysyłać wiadomości bezpośrednio do drugiego rodzica.",
+    "step7Title": "Zaproś drugiego rodzica",
+    "step7Body": "Aby rozpocząć, zaproś drugiego rodzica dziecka do aplikacji:"
   },
   "calendar": {
     "regularSchedule": "Regularny harmonogram",

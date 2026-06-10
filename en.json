@@ -171,7 +171,9 @@
     "step5Title": "How schedules stack and what the colors mean",
     "step5Body": "Regular schedules run from a start date to an end date. Swap and holiday schedules sit on top and override the regular plan for those days.\n\nAll schedules need approval from the other parent. Pending time shows in yellow; approved time shows in green, so you can see each parent's time at a glance.\n\nTap a day where there's already a schedule to request changes (whether editing the days or times, or deleting the schedule altogether) and those changes go through the same approval like new requests.",
     "step6Title": "Messages: where requests live",
-    "step6Body": "Schedule or change requests appear in the Messages tab. The parent who receives a request can approve or decline it. Until that happens, the parent who sent it can cancel it; useful if something was wrong and needs to be sent again.\n\nYou can also send messages to the other parent directly."
+    "step6Body": "Schedule or change requests appear in the Messages tab. The parent who receives a request can approve or decline it. Until that happens, the parent who sent it can cancel it; useful if something was wrong and needs to be sent again.\n\nYou can also send messages to the other parent directly.",
+    "step7Title": "Invite co-parent",
+    "step7Body": "To get started, invite your child's co-parent to join the app:"
   },
   "calendar": {
     "regularSchedule": "Regular Schedule",

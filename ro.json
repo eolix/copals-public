@@ -171,7 +171,9 @@
     "step5Title": "Cum se suprapun programele și ce înseamnă culorile",
     "step5Body": "Programele regulate rulează de la o dată de început la o dată de sfârșit. Programele de schimb și de vacanță se suprapun și înlocuiesc planul regulat pentru acele zile.\n\nToate programele necesită aprobarea celuilalt părinte. Timpul în așteptare apare galben; timpul aprobat apare verde, astfel încât puteți vedea dintr-o privire timpul fiecărui părinte.\n\nAtingeți o zi în care există deja un program pentru a solicita modificări (fie editarea zilelor sau orelor, fie ștergerea completă a programului) și aceste modificări trec prin aceeași aprobare ca și cererile noi.",
     "step6Title": "Mesaje: unde trăiesc cererile",
-    "step6Body": "Cererile de program sau de modificare apar în fila Mesaje. Părintele care primește o cerere o poate aproba sau respinge. Până atunci, părintele care a trimis-o o poate anula; util dacă ceva a fost greșit și trebuie retrimis.\n\nPuteți trimite mesaje direct celuilalt părinte."
+    "step6Body": "Cererile de program sau de modificare apar în fila Mesaje. Părintele care primește o cerere o poate aproba sau respinge. Până atunci, părintele care a trimis-o o poate anula; util dacă ceva a fost greșit și trebuie retrimis.\n\nPuteți trimite mesaje direct celuilalt părinte.",
+    "step7Title": "Invită celălalt părinte",
+    "step7Body": "Pentru a începe, invită celălalt părinte al copilului dvs. să se alăture aplicației:"
   },
   "calendar": {
     "regularSchedule": "Program regulat",

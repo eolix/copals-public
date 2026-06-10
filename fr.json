@@ -171,7 +171,9 @@
     "step5Title": "Comment les plannings se superposent et ce que signifient les couleurs",
     "step5Body": "Les plannings réguliers vont d'une date de début à une date de fin. Les échanges et les vacances se superposent et remplacent le planning habituel ces jours-là.\n\nTous les plannings nécessitent l'accord de l'autre parent. L'attente apparaît en jaune ; l'approbation en vert, pour voir d'un coup d'œil le temps de chacun avec l'enfant.\n\nAppuyez sur un jour qui a déjà un planning pour demander des modifications (changer les jours ou les horaires, ou supprimer tout le planning) : cela suit la même validation que les nouvelles demandes.",
     "step6Title": "Messages : où se trouvent les demandes",
-    "step6Body": "Les demandes de planning ou de modification apparaissent dans l'onglet Messages. Le parent qui les reçoit peut les accepter ou les refuser. D'ici là, l'expéditeur peut les annuler — pratique en cas d'erreur à renvoyer.\n\nVous pouvez aussi vous écrire directement."
+    "step6Body": "Les demandes de planning ou de modification apparaissent dans l'onglet Messages. Le parent qui les reçoit peut les accepter ou les refuser. D'ici là, l'expéditeur peut les annuler — pratique en cas d'erreur à renvoyer.\n\nVous pouvez aussi vous écrire directement.",
+    "step7Title": "Inviter l'autre parent",
+    "step7Body": "Pour commencer, invitez l'autre parent de votre enfant à rejoindre l'application :"
   },
   "calendar": {
     "regularSchedule": "Planning régulier",

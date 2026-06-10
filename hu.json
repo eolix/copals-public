@@ -171,7 +171,9 @@
     "step5Title": "Hogyan rétegeződnek a menetrendek és mit jelentenek a színek",
     "step5Body": "A rendszeres menetrendek kezdő dátumtól záró dátumig futnak. A napcsere és szabadság menetrendek ezek fölé kerülnek, és felülírják a rendszeres tervet az adott napokra.\n\nMinden menetrendhez szükséges a másik szülő jóváhagyása. A függőben lévő idő sárga színnel, a jóváhagyott idő zöld színnel jelenik meg, így egy pillantással láthatja mindkét szülő idejét.\n\nKoppintson egy napra, ahol már van menetrend, ha változtatást szeretne kérni (legyen szó a napok vagy időpontok szerkesztéséről, vagy a menetrend teljes törléséről), és ezek a változtatások ugyanúgy jóváhagyáson mennek át, mint az új kérelmek.",
     "step6Title": "Üzenetek: itt jelennek meg a kérelmek",
-    "step6Body": "A menetrend- vagy változtatási kérelmek az Üzenetek lapon jelennek meg. A kérelmet fogadó szülő jóváhagyhatja vagy elutasíthatja. Amíg ez nem történik meg, a küldő szülő visszavonhatja; hasznos, ha valami hibás volt, és újra kell küldeni.\n\nKözvetlen üzeneteket is küldhet a másik szülőnek."
+    "step6Body": "A menetrend- vagy változtatási kérelmek az Üzenetek lapon jelennek meg. A kérelmet fogadó szülő jóváhagyhatja vagy elutasíthatja. Amíg ez nem történik meg, a küldő szülő visszavonhatja; hasznos, ha valami hibás volt, és újra kell küldeni.\n\nKözvetlen üzeneteket is küldhet a másik szülőnek.",
+    "step7Title": "Másik szülő meghívása",
+    "step7Body": "A kezdéshez hívja meg a gyermek másik szülőjét, hogy csatlakozzon az alkalmazáshoz:"
   },
   "calendar": {
     "regularSchedule": "Rendszeres menetrend",

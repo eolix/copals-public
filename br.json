@@ -167,7 +167,9 @@
     "step5Title": "Como as agendas se sobrepõem e o que as cores significam",
     "step5Body": "Agendas regulares vão de uma data de início a uma de fim. Trocas e férias ficam por cima e substituem o plano habitual nesses dias.\n\nTodas as agendas precisam de aprovação do outro responsável. Pendente aparece em amarelo; aprovado em verde, para verem de relance o tempo de cada um com a criança.\n\nToque num dia que já tenha agenda para pedir alterações (editar dias ou horários, ou apagar a agenda por completo): segue a mesma aprovação dos pedidos novos.",
     "step6Title": "Mensagens: onde ficam os pedidos",
-    "step6Body": "Pedidos de agenda ou de alteração aparecem na aba Mensagens. Quem recebe pode aprovar ou recusar. Até lá, quem enviou pode cancelar — útil se houve erro e precisa reenviar.\n\nTambém podem mandar mensagens diretas um ao outro."
+    "step6Body": "Pedidos de agenda ou de alteração aparecem na aba Mensagens. Quem recebe pode aprovar ou recusar. Até lá, quem enviou pode cancelar — útil se houve erro e precisa reenviar.\n\nTambém podem mandar mensagens diretas um ao outro.",
+    "step7Title": "Convide o outro responsável",
+    "step7Body": "Para começar, convide o outro responsável da criança a entrar no app:"
   },
   "calendar": {
     "regularSchedule": "Agenda regular",

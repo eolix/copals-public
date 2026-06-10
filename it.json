@@ -171,7 +171,9 @@
     "step5Title": "Come si sovrappongono i programmi e cosa significano i colori",
     "step5Body": "I programmi regolari vanno da una data di inizio a una di fine. Scambi e vacanze si sovrappongono e sostituiscono il piano abituale in quei giorni.\n\nTutti i programmi richiedono l'approvazione dell'altro genitore. L'attesa è in giallo; l'approvazione in verde, così vedete a colpo d'occhio il tempo di ciascuno con il bambino o la bambina.\n\nTocca un giorno che ha già un programma per chiedere modifiche (giorni o orari, o eliminare del tutto il programma): passano dalla stessa approvazione delle nuove richieste.",
     "step6Title": "Messaggi: dove arrivano le richieste",
-    "step6Body": "Le richieste di programma o di modifica compaiono nella scheda Messaggi. Il genitore che le riceve può approvarle o rifiutarle. Fino ad allora chi le ha inviate può annullarle: utile se c'è stato un errore e vanno reinviare.\n\nPotete anche scrivervi messaggi direttamente."
+    "step6Body": "Le richieste di programma o di modifica compaiono nella scheda Messaggi. Il genitore che le riceve può approvarle o rifiutarle. Fino ad allora chi le ha inviate può annullarle: utile se c'è stato un errore e vanno reinviare.\n\nPotete anche scrivervi messaggi direttamente.",
+    "step7Title": "Invita l'altro genitore",
+    "step7Body": "Per iniziare, invita l'altro genitore di tuo figlio o tua figlia a unirsi all'app:"
   },
   "calendar": {
     "regularSchedule": "Programma regolare",

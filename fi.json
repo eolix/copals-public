@@ -171,7 +171,9 @@
     "step5Title": "Miten aikataulut kerrostuvat ja mitä värit tarkoittavat",
     "step5Body": "Säännölliset aikataulut ovat voimassa alkupäivästä loppupäivään. Vaihto- ja loma-aikataulut ovat päällä ja korvaavat säännöllisen suunnitelman kyseisinä päivinä.\n\nKaikki aikataulut vaativat toisen vanhemman hyväksynnän. Odottava aika näkyy keltaisena; hyväksytty aika vihreänä, jotta näet kunkin vanhemman ajat yhdellä silmäyksellä.\n\nNapauta päivää, jolla on jo aikataulu, pyytääksesi muutoksia (päivien tai aikojen muokkaus tai aikataulun poistaminen kokonaan), ja muutokset käyvät saman hyväksyntäprosessin kautta kuin uudet pyynnöt.",
     "step6Title": "Viestit: missä pyynnöt ovat",
-    "step6Body": "Aikataulu- tai muutospyynnöt näkyvät Viestit-välilehdellä. Pyynnön vastaanottanut vanhempi voi hyväksyä tai hylätä sen. Siihen asti lähettäjä voi peruuttaa pyynnön; hyödyllistä, jos jokin meni pieleen ja pyyntö täytyy lähettää uudelleen.\n\nVoit myös lähettää viestejä suoraan toiselle vanhemmalle."
+    "step6Body": "Aikataulu- tai muutospyynnöt näkyvät Viestit-välilehdellä. Pyynnön vastaanottanut vanhempi voi hyväksyä tai hylätä sen. Siihen asti lähettäjä voi peruuttaa pyynnön; hyödyllistä, jos jokin meni pieleen ja pyyntö täytyy lähettää uudelleen.\n\nVoit myös lähettää viestejä suoraan toiselle vanhemmalle.",
+    "step7Title": "Kutsu toinen vanhempi",
+    "step7Body": "Aloita kutsumalla toinen vanhempi liittymään sovellukseen:"
   },
   "calendar": {
     "regularSchedule": "Säännöllinen aikataulu",

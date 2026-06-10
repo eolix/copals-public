@@ -172,7 +172,9 @@
     "step5Title": "Hur scheman ligger ovanpå varandra och vad färgerna betyder",
     "step5Body": "Regelbundna scheman löper från ett startdatum till ett slutdatum. Byten och semester ligger ovanpå och ersätter det vanliga schemat dessa dagar.\n\nAlla scheman kräver godkännande från den andra föräldern. Väntande tid visas i gult; godkänd tid i grönt, så ni ser med en blick när respektive förälder har tid med barnet.\n\nTryck på en dag som redan har ett schema för att begära ändringar – oavsett om det gäller dagar eller tider, eller att ta bort hela schemat – samma godkännandeflöde som för nya förfrågningar.",
     "step6Title": "Meddelanden: där förfrågningarna finns",
-    "step6Body": "Schema- eller ändringsförfrågningar visas under fliken Meddelanden. Den förälder som tar emot kan godkänna eller avslå. Tills dess kan avsändaren ångra – praktiskt om något var fel och måste skickas om.\n\nNi kan också skicka meddelanden direkt till varandra."
+    "step6Body": "Schema- eller ändringsförfrågningar visas under fliken Meddelanden. Den förälder som tar emot kan godkänna eller avslå. Tills dess kan avsändaren ångra – praktiskt om något var fel och måste skickas om.\n\nNi kan också skicka meddelanden direkt till varandra.",
+    "step7Title": "Bjud in medföräldern",
+    "step7Body": "För att komma igång, bjud in barnets andra förälder att gå med i appen:"
   },
   "calendar": {
     "regularSchedule": "Regelbunden schema",
